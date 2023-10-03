@@ -12,8 +12,8 @@ Answer
 There are various processes involved in building a machine learning model to forecast client churn. Here is a general outline of how I could go about doing this work.
 
 1.	Collect and prepare the data available.
-•	I will prepare the bunch of past data and gather information available about the consumers by using a variety of historical data about when previous customers left as well as information about who these customers are, their demographics, purchase history, usage patterns, customer service interactions, what they've purchased, and other similar information.
-•	Clean up and preprocess the data, this will involve dealing with difficulties in data formatting, outliers, and missing numbers. The available data will need to be cleansed and preprocessed so that the model can make use of it.
+- I will prepare the bunch of past data and gather information available about the consumers by using a variety of historical data about when previous customers left as well as information about who these customers are, their demographics, purchase history, usage patterns, customer service interactions, what they've purchased, and other similar information.
+- Clean up and preprocess the data, this will involve dealing with difficulties in data formatting, outliers, and missing numbers. The available data will need to be cleansed and preprocessed so that the model can make use of it.
 2.	EDA, (exploratory data analysis).
 •	This is the crucial process of doing first analyses on data in order to find patterns, uncover anomalies, test hypotheses, and double-check assumptions using summary statistics and graphical representations. I will explore the dataset to gain insights into the relationships between different features and churn. I’ll need to analyze trends in the data to find the main reasons behind customer churn. And visualize the data to identify patterns and correlations.
 3.	Feature Engineering:
