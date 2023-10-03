@@ -25,6 +25,7 @@ Here is a general outline of how I did this work.
 - I prepared the bunch of past data and gather information available about the consumers by using a variety of historical 
 data about when previous  customers left as well as information about who these customers are, their demographics,
  purchase history, usage patterns, customer service interactions, what they've purchased, and other similar information.
+ The data is in the ***Sample.data.csv file***
  
  ```Python code
  import pandas as pd
@@ -35,7 +36,45 @@ data = pd.read_csv(io.BytesIO(uploaded['Sample.data.csv']))
 data.sample(10)
 ```
 
-- Clean up and preprocess the data, this will involve dealing with difficulties in data formatting, outliers, and missing numbers. The available data will need to be cleansed and preprocessed so that the model can make use of it.
+- I then proceeded in cleaning up and preprocess the data, this  involved dealing with difficulties in data formatting,
+ cheking for outliers that I found none, and  checking for missing values in the data.
+ The Sample.data.csv data needed to be cleansed and preprocessed so that the model can make  good use of it.
+
+
+```Python code to check for missing values.
+import pandas as pd
+# Load the data from the CSV file
+data = pd.read_csv('Sample.data.csv')
+# Check for missing values in each column
+missing_values = data.isnull().sum()
+# Print the count of missing values for each column
+print("Missing Values Count per Column:")
+print(missing_values)
+```
+
+```python code for cheking outliers
+import pandas as pd
+import numpy as np
+from scipy import stats
+
+# Load the data from the CSV file
+data = pd.read_csv('Sample.data.csv')
+
+# Define a threshold for the Z-score
+z_score_threshold = 3  # Adjust this threshold as needed
+
+# Calculate the Z-scores for numerical columns (exclude non-numeric columns)
+numeric_cols = data.select_dtypes(include=[np.number])
+z_scores = np.abs(stats.zscore(numeric_cols))
+
+# Identify outliers based on the Z-score threshold
+outliers = (z_scores > z_score_threshold).any(axis=1)
+
+# Print the rows with outliers
+print("Rows with Outliers:")
+print(data[outliers])
+```
+---
 
 2.	EDA, (exploratory data analysis).
 - This is the crucial process of doing first analyses on data in order to find patterns, uncover anomalies, test hypotheses, and double-check assumptions using summary statistics and graphical representations. I will explore the dataset to gain insights into the relationships between different features and churn. I’ll need to analyze trends in the data to find the main reasons behind customer churn. And visualize the data to identify patterns and correlations.
