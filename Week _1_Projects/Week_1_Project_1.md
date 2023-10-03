@@ -79,7 +79,7 @@ print(data[outliers])
   I needed to analyze trends in the data to find the main reasons 
  behind customer churn. And visualize the data. 
 - Bellow is the code that I used.
-```
+```python code
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -96,6 +96,18 @@ data.hist(bins=20, figsize=(12, 10))
 plt.suptitle("Histograms", y=1.02)
 plt.show()
 ```
+![Correlation_matrix]()
+![Histogram]()
+- from the  the correlation diagram from the **Sample.data.cvs** file I could see that there are a number of 
+factors that can influence a customer's company contract length, including their age, income, and usage patterns.
+With this information I could tell which customers are most likely to cancel their contracts and to target marketing
+and retention strategies at these customers.
+- for instance, looking at the correlation diagram in Age and contract length: There is a strong negative correlation 
+between age and contract length, meaning that older customers are more likely to have shorter contracts. This may be
+ because older customers are more likely to be retired or have other commitments. However, in Income and contract length: 
+ There is a strong positive correlation between income and contract length, meaning that 
+customers with higher incomes are more likely to have longer contracts because they are likely to be able to afford a long-term contract 
+with the company and may also be more likely to value the benefits that come with a longer contract, 
 ---
 
 3.	Feature Engineering:
