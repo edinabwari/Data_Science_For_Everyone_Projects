@@ -1,9 +1,8 @@
 ## **Week One project: Churn Prediction for Sprint.**
 
 ---
-
 **Question**
----
+
 Imagine you're working with Sprint. They're really keen on figuring out how many customers might decide 
 to leave them in the coming months. Luckily, they've got a bunch of past data about when customers have 
 left before, as well as info about who these customers are, what they've bought, and other things like that.
@@ -12,7 +11,7 @@ left before, as well as info about who these customers are, what they've bought,
  model that can predict if someone's going to leave or not?
 ---
 
-**Answer**
+## **Answer**
 
 There are various processes involved in building a machine learning model to forecast client churn. 
 Here is a general outline of how I could go about doing this work.
