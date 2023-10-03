@@ -155,30 +155,168 @@ X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=0.
 ---
 
 ### 5.	Model Selection: 
-- A suitable machine learning algorithm will then be selected for the model. Logistic regression, 
-decision trees, random forests, support vector machines, and neural networks are a few of the often-used options.
- I'll also test out many algorithms to see which one works best for my particular dataset before carefully choosing the top algorithm.
+- In this step I selected a suitable machine learning algorithm  for the model which is random forests.
+Random forest is an ensemble technique that works on decision trees. It uses the bootstrap aggregation (bagging)
+ technique over multiple decision trees. As the name bootstrap suggests, the decision tree is trained on several 
+ data sets drawn from the original data set, with replacement (reusing the same data samples multiple times). Multiple 
+such decision trees are trained, and the final outcome is based on the average of outcomes of individual trees.
+- Random Forest algorithm is far more accurate at predictive analytics in general. It is one of the best algorithms 
+used for regression and classification analysis
+```python code
+import numpy as np
+from sklearn.ensemble import RandomForestClassifier
 
+# Load the data
+data = np.loadtxt('Sample.data.csv', delimiter=',')
+
+# Split the data into features and target variable
+X = data[:, :-1]
+y = data[:, -1]
+
+# Split the data into training, validation, and test sets
+X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.25, random_state=42)
+
+# Create the random forest classifier
+clf = RandomForestClassifier(n_estimators=100, random_state=42)
+
+# Train the model
+clf.fit(X_train, y_train)
+
+# Evaluate the model on the validation set
+y_pred_val = clf.predict(X_val)
+accuracy_val = np.mean(y_pred_val == y_val)
+
+# Print the validation accuracy
+print('Validation accuracy:', accuracy_val)
+
+# Evaluate the model on the test set
+y_pred_test = clf.predict(X_test)
+accuracy_test = np.mean(y_pred_test == y_test)
+
+# Print the test accuracy
+print('Test accuracy:', accuracy_test)
+
+# Save the model
+clf.save('churn_model.pkl')
+```
 ---
 
 ### 6.Model Training:
-- Here, I will train the model on the training data using the chosen algorithm. Once I have the chosen algorithm, I would need to train the model on the prepared data. This involves feeding the algorithm the data and allowing it to learn the relationships between the different variables. Tune hyperparameters using techniques like cross-validation to optimize model performance.
+- Here, I  trained the model on the training data using Random forest algorithm.
+ Once I had the chosen algorithm, I  needed to train the model on the prepared data. 
+ This involves feeding the algorithm the data and allowing it to learn the relationships between 
+ the different variables. Tune hyperparameters using techniques like cross-validation to optimize model performance.
+ ```python code
+ import numpy as np
+from sklearn.ensemble import RandomForestClassifier
+data = np.loadtxt('Sample.data.csv', delimiter=',')
+X = data[:, :-1]
+y = data[:, -1]
+
+# Split the data into training and validation sets
+X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.25, random_state=42)
+
+# Create the random forest classifier
+clf = RandomForestClassifier(n_estimators=100, random_state=42)
+
+# Train the model
+clf.fit(X_train, y_train)
+```
 ---
 
 ### 7.Model Evaluation:
-- After training the model, I will proceed to evaluate the model's performance on the validation and test sets using relevant evaluation metrics such as accuracy, precision, recall, F1-score, and ROC-AUC. This would provide an idea of the model's potential performance on fresh data. In order to make sure the model makes accurate predictions; I will compare its performance to that of a baseline model (such as a random guess).
+- After training the model, I evaluated the model's performance on the validation and test sets using relevant 
+evaluation metrics such as accuracy, precision, recall, F1-score, and ROC-AUC. This provided an idea of the model's
+ potential performance on fresh data. In order to make sure the model makes accurate predictions; I will compare its 
+ performance to that of a baseline model (such as a random guess).
+ ```python code
+ import numpy as np
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
+data = np.loadtxt('Sample.data.csv', delimiter=',')
+X = data[:, :-1]
+y = data[:, -1]
+X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.25, random_state=42)
+
+# Train the random forest classifier
+clf = RandomForestClassifier(n_estimators=100, random_state=42)
+clf.fit(X_train, y_train)
+
+# Evaluate the model on the validation set
+y_pred_val = clf.predict(X_val)
+accuracy_val = accuracy_score(y_val, y_pred_val)
+precision_val = precision_score(y_val, y_pred_val)
+recall_val = recall_score(y_val, y_pred_val)
+f1_val = f1_score(y_val, y_pred_val)
+roc_auc_val = roc_auc_score(y_val, y_pred_val)
+
+# Print the validation metrics
+print('Validation accuracy:', accuracy_val)
+print('Validation precision:', precision_val)
+print('Validation recall:', recall_val)
+print('Validation F1-score:', f1_val)
+print('Validation ROC-AUC:', roc_auc_val)
+
+# Evaluate the model on the test set
+y_pred_test = clf.predict(X_test)
+accuracy_test = accuracy_score(y_test, y_pred_test)
+precision_test = precision_score(y_test, y_pred_test)
+recall_test = recall_score(y_test, y_pred_test)
+f1_test = f1_score(y_test, y_pred_test)
+roc_auc_test = roc_auc_score(y_test, y_pred_test)
+
+# Print the test metrics
+print('Test accuracy:', accuracy_test)
+print('Test precision:', precision_test)
+print('Test recall:', recall_test)
+print('Test F1-score:', f1_test)
+print('Test ROC-AUC:', roc_auc_test)
+```
 ---
 
 ### 8.Deployment:
-- Once the model is trained and validated and I feel satisfied that the model is able to predict customers behavior and churn, I will go on to deploy it into the production environment, where it can be used to make real-time predictions on new customer data.
+- Once the model is trained and validated and I felt satisfied that the model is able
+ to predict customers behavior and churn, I went on to deploy it into the production environment, 
+ where it can be used to make real-time predictions on new customer data.
+- I used this code
+```python code
+import pickle
+import numpy as np
+from sklearn.ensemble import RandomForestClassifier
 
+# Load the model
+model = pickle.load(open('churn_model.pkl', 'rb'))
+
+# Make a prediction on a new customer
+new_customer = np.array([30, 'M', 'New York', 100000, 100, 1000, 1])
+
+# Predict the churn probability for the new customer
+churn_probability = model.predict_proba(new_customer)[0][1]
+
+# If the churn probability is greater than a certain threshold, then predict that the customer will churn
+if churn_probability > 0.5:
+    print('The customer is likely to churn.')
+else:
+    print('The customer is unlikely to churn.')
+```
 --- 
 
 ### 9.Monitoring and Maintenance:
-- Once 	I have deployed the model in the production environment, I will continuously monitor the model's performance and retrain it periodically with new data to ensure its accuracy remains high. This will involve checking for issues, modifications as needed, and prospective issues. The purpose of maintenance and monitoring is to guarantee the ongoing use, dependability, and security of the model, by performing software updates, hardware maintenance, configuring management.
+- Once 	I have deployed the model in the production environment,
+ I will continuously monitor the model's performance and retrain it periodically with 
+ new data to ensure its accuracy remains high. This will involve checking for issues, 
+ modifications as needed, and prospective issues. The purpose of maintenance and monitoring
+  is to guarantee the ongoing use, dependability, and security of the model, by performing software
+   updates, hardware maintenance, configuring management.
 
 --- 
 
 ### 10.Feedback Loop:
-- A feedback loop is an ongoing, iterative process for fine-tuning and enhancing the model based on user feedback and assessments of its effectiveness. The model will rely on the feedback loop process since it will enable me to continuously enhance and refine the model. It makes sure the model is in line with the facts and specifications of the real world and is flexible enough to change with the times. Feedback loops also aid in spotting and fixing any problems like bias or overfitting that might not be obvious in the early phases of development.
+- A feedback loop is an ongoing, iterative process for fine-tuning and enhancing the
+ model based on user feedback and assessments of its effectiveness.
+  The model will rely on the feedback loop process since it will enable me to 
+  continuously enhance and refine the model. It makes sure the model is in line with the 
+  facts and specifications of the real world and is flexible enough to change with the times. 
+  Feedback loops also aid in spotting and fixing any problems like bias or overfitting that might
+  
+   not be obvious in the early phases of development.
 ---
