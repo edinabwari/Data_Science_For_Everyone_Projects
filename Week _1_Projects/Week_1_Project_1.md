@@ -1,7 +1,7 @@
 ## **Week One project: Churn Prediction for Sprint.**
 
----
-**Question**
+
+Question
 
 Imagine you're working with Sprint. They're really keen on figuring out how many customers might decide 
 to leave them in the coming months. Luckily, they've got a bunch of past data about when customers have 
