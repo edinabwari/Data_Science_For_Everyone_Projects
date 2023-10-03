@@ -35,7 +35,7 @@ import io
 data = pd.read_csv(io.BytesIO(uploaded['Sample.data.csv']))
 data.sample(10)
 ```
-![data]()
+![data](https://github.com/edinabwari/Data_Science_For_Everyone_Projects/blob/main/Week%20_1_Projects/data.png)
 - I then proceeded in cleaning up and preprocess the data, this  involved dealing with difficulties in data formatting,
  cheking for outliers that I found none, and  checking for missing values in the data.
  The ***Sample.data.csv*** data needed to be cleansed and preprocessed so that the model can make  good use of it.
