@@ -96,8 +96,8 @@ data.hist(bins=20, figsize=(12, 10))
 plt.suptitle("Histograms", y=1.02)
 plt.show()
 ```
-![Correlation_matrix]()
-![Histogram]()
+![Correlation_matrix](https://github.com/edinabwari/Data_Science_For_Everyone_Projects/blob/main/Week%20_1_Projects/Correlation_matrix.png)
+![Histogram](https://github.com/edinabwari/Data_Science_For_Everyone_Projects/blob/main/Week%20_1_Projects/Histogram.png)
 - from the  the correlation diagram from the **Sample.data.cvs** file I could see that there are a number of 
 factors that can influence a customer's company contract length, including their age, income, and usage patterns.
 With this information I could tell which customers are most likely to cancel their contracts and to target marketing
