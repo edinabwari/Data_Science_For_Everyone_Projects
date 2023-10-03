@@ -12,16 +12,29 @@ left before, as well as info about who these customers are, what they've bought,
 
 ## **Answer**
 - The customer churn prediction (CCP) is one of the challenging problems in bussiness today. This is a term that refers
-to the number of customers that a company, for this case Sprint losses over a specific period of time. Predicting the number 
-of customers wo will leave the company early can be a large revenue of source. With this machine learning model, Sprint can 
-take measures to retain  profitable customers and work on areas where customer service is lacking.
-
--There are various processes involved in building a machine learning model to forecast client churn. 
+to the number of customers who terminates the services of a company or  switches to  another. It  really  decreases the  profit
+ margin in a company if it loses its customers. Predicting the number of customers wo will leave the company early can be a
+ large revenue of source. With this machine learning model, Sprint can take measures to retain  profitable customers and
+ work on areas where customer service is lacking.
+ 
+- There are various processes involved in building a machine learning model to forecast client churn. 
 Here is a general outline of how I did this work.
-
-1.	Collect and prepare the data available.
 ---
-- I will prepare the bunch of past data and gather information available about the consumers by using a variety of historical data about when previous customers left as well as information about who these customers are, their demographics, purchase history, usage patterns, customer service interactions, what they've purchased, and other similar information.
+### 1. Data	Collection and preparation.
+---
+- I prepared the bunch of past data and gather information available about the consumers by using a variety of historical 
+data about when previous  customers left as well as information about who these customers are, their demographics,
+ purchase history, usage patterns, customer service interactions, what they've purchased, and other similar information.
+ 
+ ```Python code
+ import pandas as pd
+from google.colab import files
+uploaded = files.upload()
+import io
+data = pd.read_csv(io.BytesIO(uploaded['Sample.data.csv']))
+data.sample(10)
+```
+
 - Clean up and preprocess the data, this will involve dealing with difficulties in data formatting, outliers, and missing numbers. The available data will need to be cleansed and preprocessed so that the model can make use of it.
 
 2.	EDA, (exploratory data analysis).
