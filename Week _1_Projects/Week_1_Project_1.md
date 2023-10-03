@@ -127,7 +127,7 @@ data['average_texts_per_day'] = data['texts_sent'] / data['contract_length']
 data.to_csv('Feature_Engineered_Sample.data.csv', index=False)
 
 print(data)
-
+```
 ---
 
 ### 4.Data Splitting:
