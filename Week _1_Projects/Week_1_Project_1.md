@@ -38,16 +38,14 @@ data.sample(10)
 
 - I then proceeded in cleaning up and preprocess the data, this  involved dealing with difficulties in data formatting,
  cheking for outliers that I found none, and  checking for missing values in the data.
- The Sample.data.csv data needed to be cleansed and preprocessed so that the model can make  good use of it.
+ The ***Sample.data.csv*** data needed to be cleansed and preprocessed so that the model can make  good use of it.
 
 
 ```Python code to check for missing values.
 import pandas as pd
-# Load the data from the CSV file
+# Load the data from the CSV file and Checked for missing values in each column
 data = pd.read_csv('Sample.data.csv')
-# Check for missing values in each column
 missing_values = data.isnull().sum()
-# Print the count of missing values for each column
 print("Missing Values Count per Column:")
 print(missing_values)
 ```
@@ -56,28 +54,49 @@ print(missing_values)
 import pandas as pd
 import numpy as np
 from scipy import stats
-
 # Load the data from the CSV file
 data = pd.read_csv('Sample.data.csv')
-
 # Define a threshold for the Z-score
 z_score_threshold = 3  # Adjust this threshold as needed
-
 # Calculate the Z-scores for numerical columns (exclude non-numeric columns)
 numeric_cols = data.select_dtypes(include=[np.number])
 z_scores = np.abs(stats.zscore(numeric_cols))
-
 # Identify outliers based on the Z-score threshold
 outliers = (z_scores > z_score_threshold).any(axis=1)
-
 # Print the rows with outliers
 print("Rows with Outliers:")
 print(data[outliers])
 ```
 ---
 
-2.	EDA, (exploratory data analysis).
-- This is the crucial process of doing first analyses on data in order to find patterns, uncover anomalies, test hypotheses, and double-check assumptions using summary statistics and graphical representations. I will explore the dataset to gain insights into the relationships between different features and churn. I’ll need to analyze trends in the data to find the main reasons behind customer churn. And visualize the data to identify patterns and correlations.
+### 2.EDA, (exploratory data analysis).
+- In this step, the cleaned data that I have had to be analysed in order to find patterns,
+ uncover anomalies, test hypotheses, and double-check assumptions using summary statistics 
+ and graphical representations.
+- I came up with a correlation matrix and a histogramand to visualize the data as a heatmap and understand the relationships
+  between numerical features and to identify patterns and correlations. I then explored the 
+  to gain insights into the relationships between different features and churn. 
+  I needed to analyze trends in the data to find the main reasons 
+ behind customer churn. And visualize the data. 
+- Bellow is the code that I used.
+```
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Correlation Matrix
+correlation_matrix = data.corr()
+plt.figure(figsize=(10, 8))
+sns.heatmap(correlation_matrix, annot=True, cmap="coolwarm", fmt=".2f")
+plt.title("Correlation Matrix")
+plt.show()
+
+# Histograms from the data
+data.hist(bins=20, figsize=(12, 10))
+plt.suptitle("Histograms", y=1.02)
+plt.show()
+```
+---
 
 3.	Feature Engineering:
 - Here, I will focus on choosing, modifying, and converting raw data into features that may be applied in supervised learning. This step will help me build and train better features in order to make the model learn effectively on new tasks. In simple terms, in this step I will focus on transforming unprocessed observations into desired features using statistical or machine learning techniques to create relevant features that can help the model make better predictions. 
