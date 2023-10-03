@@ -277,7 +277,7 @@ print('Test ROC-AUC:', roc_auc_test)
 - Once the model is trained and validated and I felt satisfied that the model is able
  to predict customers behavior and churn, I went on to deploy it into the production environment, 
  where it can be used to make real-time predictions on new customer data.
-- I used this code
+
 ```python code
 import pickle
 import numpy as np
@@ -316,7 +316,5 @@ else:
   The model will rely on the feedback loop process since it will enable me to 
   continuously enhance and refine the model. It makes sure the model is in line with the 
   facts and specifications of the real world and is flexible enough to change with the times. 
-  Feedback loops also aid in spotting and fixing any problems like bias or overfitting that might
-  
-   not be obvious in the early phases of development.
+  Feedback loops also aid in spotting and fixing any problems like bias or overfitting that mightnot be obvious in the early phases of development.
 ---
