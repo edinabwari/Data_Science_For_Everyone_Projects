@@ -35,7 +35,7 @@ import io
 data = pd.read_csv(io.BytesIO(uploaded['Sample.data.csv']))
 data.sample(10)
 ```
-
+![data]()
 - I then proceeded in cleaning up and preprocess the data, this  involved dealing with difficulties in data formatting,
  cheking for outliers that I found none, and  checking for missing values in the data.
  The ***Sample.data.csv*** data needed to be cleansed and preprocessed so that the model can make  good use of it.
@@ -133,7 +133,24 @@ print(data)
 ### 4.Data Splitting:
 - I will proceed by splitting the dataset into three categories. This includes training, validation, and test sets.
  The training set I used to train the model, the validation set I used to tune hyperparameters,
-  and the test set I  used to evaluate the model's performance.
+and the test set I  used to evaluate the model's performance.
+```python code
+import numpy as np
+from sklearn.model_selection import train_test_split
+
+# Load the data
+data = np.loadtxt('Sample.data.csv', delimiter=',')
+
+# Split the data into features and target variable
+X = data[:, :-1]
+y = data[:, -1]
+
+# Split the data into training, validation, and test sets
+X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.25, random_state=42)
+
+# Split the training data into training and validation sets
+X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=0.25, random_state=42)
+```
 
 ---
 
