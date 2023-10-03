@@ -1,6 +1,5 @@
 ## **Week One project: Churn Prediction for Sprint.**
 
-
 Question
 
 Imagine you're working with Sprint. They're really keen on figuring out how many customers might decide 
@@ -12,9 +11,13 @@ left before, as well as info about who these customers are, what they've bought,
 ---
 
 ## **Answer**
+- The customer churn prediction (CCP) is one of the challenging problems in bussiness today. This is a term that refers
+to the number of customers that a company, for this case Sprint losses over a specific period of time. Predicting the number 
+of customers wo will leave the company early can be a large revenue of source. With this machine learning model, Sprint can 
+take measures to retain  profitable customers and work on areas where customer service is lacking.
 
-There are various processes involved in building a machine learning model to forecast client churn. 
-Here is a general outline of how I could go about doing this work.
+-There are various processes involved in building a machine learning model to forecast client churn. 
+Here is a general outline of how I did this work.
 
 1.	Collect and prepare the data available.
 ---
