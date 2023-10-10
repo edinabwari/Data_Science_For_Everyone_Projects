@@ -1,7 +1,7 @@
 ## **Week Two project:  Comparison of a model to predict booking prices on Airbnb.**
 ---
 
-**Question: **
+** Question: **
 Let’s say we want to build a model to predict booking prices on Airbnb. Between 
 linear regression and random forest regression, which model would perform better and why?
 ---
@@ -27,3 +27,4 @@ import io
 data = pd.read_csv(io.BytesIO(uploaded['Airbnb.data.csv']))
 data.sample(10)
 ```
+![data](https://github.com/edinabwari/Data_Science_For_Everyone_Projects/blob/main/Week_2_Project/data.png)
