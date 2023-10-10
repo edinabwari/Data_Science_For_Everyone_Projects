@@ -66,6 +66,7 @@ plt.ylabel('Price')
 plt.show()
 ```
 - Here was the outcome from my data.
+
 ![priceVSscorerating](https://github.com/edinabwari/Data_Science_For_Everyone_Projects/blob/main/Week_2_Project/priceVSscorerating.png)
 - From the  the image there is a strong positive correlation between review score rating and price in the Airbnb.data.csv 
 file. This means that Airbnb listings with higher review scores ratings tend to be more expensive.
@@ -75,3 +76,5 @@ file. This means that Airbnb listings with higher review scores ratings tend to 
 
 - Here also  there is a positive correlation between distance and price in the Airbnb.data.csv file. This means that Airbnb listings 
 that are further away from the city center tend to be more expensive this relationship  is non-linear, thus not constant.
+
+**
