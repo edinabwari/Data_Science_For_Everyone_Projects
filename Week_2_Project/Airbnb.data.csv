@@ -1,1001 +1,1001 @@
-listing_id,accommodates,bedrooms,bathrooms,review_scores_rating,host_response_time,property_type,neighborhood,amenities,availability
-1,1,5,2,78,within an hour,house,downtown,parking,331
-2,10,5,2,23,within a day,house,suburban,pool,6
-3,11,3,7,12,within an hour,villa,rural,gym,164
-4,8,4,7,10,within a few hours,cabin,downtown,pet-friendly,62
-5,5,4,10,63,within a few hours,apartment,rural,gym,140
-6,10,10,5,9,within a day,house,rural,pet-friendly,333
-7,17,10,8,56,within a few days,apartment,suburban,parking,59
-8,19,5,2,52,within a few days,cottage,beachfront,pool,335
-9,12,6,3,99,within a day,villa,downtown,pet-friendly,153
-10,6,7,9,25,within a few hours,apartment,suburban,pool,2
-11,14,8,9,11,within a few hours,house,rural,pet-friendly,318
-12,16,2,4,22,within a day,house,rural,gym,273
-13,2,5,7,46,within a day,house,beachfront,pool,261
-14,13,10,8,21,within a few hours,cabin,beachfront,parking,37
-15,19,2,1,43,within an hour,villa,suburban,parking,156
-16,11,8,2,63,within a few days,cabin,rural,wifi,79
-17,7,5,0,12,within a few hours,cabin,downtown,pool,42
-18,19,8,2,35,within an hour,cabin,downtown,parking,89
-19,16,6,6,27,within an hour,villa,beachfront,pet-friendly,67
-20,9,10,1,92,within a few hours,cottage,beachfront,pet-friendly,49
-21,15,9,1,64,within an hour,apartment,beachfront,parking,64
-22,20,7,8,48,within a day,cottage,downtown,gym,8
-23,10,10,7,30,within a few days,cottage,beachfront,gym,239
-24,18,2,4,84,within a day,villa,suburban,wifi,161
-25,4,7,0,23,within a few days,apartment,beachfront,pet-friendly,271
-26,9,1,9,56,within a day,house,beachfront,wifi,167
-27,6,2,1,80,within a few days,house,rural,pet-friendly,120
-28,15,0,1,18,within an hour,cottage,suburban,gym,226
-29,13,6,7,17,within an hour,house,downtown,pool,21
-30,10,4,6,9,within a few days,villa,rural,pool,92
-31,2,1,0,48,within a day,apartment,downtown,pool,347
-32,18,7,10,25,within a few days,cabin,beachfront,wifi,318
-33,19,6,7,18,within a day,villa,downtown,pool,34
-34,18,4,0,55,within a day,cottage,downtown,gym,330
-35,20,7,1,98,within a few hours,apartment,rural,pet-friendly,100
-36,11,4,4,93,within a few days,house,suburban,pet-friendly,162
-37,14,9,10,33,within a few hours,apartment,suburban,wifi,223
-38,16,7,0,46,within a few days,apartment,downtown,gym,67
-39,14,1,8,56,within a day,house,beachfront,pool,321
-40,12,6,6,4,within an hour,cabin,suburban,parking,240
-41,8,4,1,80,within a day,house,downtown,pool,189
-42,12,5,1,37,within a few days,cabin,downtown,gym,58
-43,1,1,7,81,within a day,house,suburban,parking,218
-44,1,0,4,56,within a few days,apartment,downtown,parking,312
-45,1,2,0,64,within a day,house,suburban,parking,196
-46,2,10,9,29,within a few days,house,suburban,gym,216
-47,16,1,10,8,within a few days,apartment,suburban,parking,234
-48,5,0,4,53,within an hour,cabin,beachfront,parking,176
-49,6,6,3,32,within a few days,cabin,beachfront,pet-friendly,65
-50,10,4,0,84,within a few hours,cabin,downtown,wifi,209
-51,8,9,7,22,within a few days,cottage,rural,parking,151
-52,18,6,9,48,within a few hours,cottage,rural,gym,59
-53,3,2,5,40,within an hour,cottage,downtown,pool,146
-54,13,5,2,79,within a day,apartment,downtown,pool,65
-55,9,6,1,86,within a few days,house,beachfront,gym,337
-56,17,8,3,69,within a few days,villa,suburban,gym,219
-57,5,8,7,70,within a day,cabin,rural,pool,287
-58,15,6,3,20,within an hour,cabin,downtown,wifi,335
-59,8,7,8,17,within an hour,cottage,downtown,wifi,209
-60,16,9,2,0,within a day,house,beachfront,gym,19
-61,15,7,3,0,within a few days,apartment,suburban,parking,316
-62,6,8,10,99,within a day,apartment,downtown,pet-friendly,59
-63,8,6,8,78,within a few days,house,rural,pet-friendly,230
-64,13,6,4,20,within a day,house,beachfront,parking,247
-65,13,2,0,74,within a few hours,apartment,rural,wifi,307
-66,8,3,6,52,within a day,cabin,rural,pet-friendly,72
-67,4,0,7,64,within a day,house,downtown,pet-friendly,64
-68,10,4,5,37,within a few hours,apartment,downtown,gym,129
-69,1,3,5,70,within an hour,cabin,suburban,pet-friendly,297
-70,7,0,1,63,within a few days,cabin,rural,pet-friendly,95
-71,15,10,4,38,within a day,apartment,downtown,pool,347
-72,16,6,9,9,within a day,villa,rural,parking,151
-73,14,2,9,77,within a few days,apartment,suburban,parking,299
-74,6,4,1,28,within a few days,house,downtown,gym,209
-75,10,1,3,73,within a few days,house,downtown,parking,350
-76,13,2,2,23,within a few hours,villa,downtown,gym,326
-77,18,1,5,42,within a day,cottage,rural,wifi,70
-78,5,10,8,90,within a day,house,suburban,wifi,53
-79,5,7,10,21,within a few days,house,beachfront,parking,197
-80,10,3,7,34,within a day,cottage,downtown,pool,204
-81,4,4,9,8,within a few days,cottage,rural,parking,322
-82,20,5,8,93,within a day,cabin,downtown,pet-friendly,14
-83,19,0,3,55,within an hour,apartment,downtown,wifi,95
-84,11,3,4,59,within a day,cabin,downtown,pool,361
-85,20,5,4,93,within an hour,apartment,beachfront,gym,56
-86,12,5,7,97,within a day,house,downtown,pet-friendly,133
-87,11,9,4,15,within a few days,house,beachfront,pool,252
-88,13,5,6,48,within a day,cottage,rural,pool,204
-89,14,2,9,31,within a few days,villa,downtown,gym,279
-90,6,6,0,57,within a day,cottage,beachfront,gym,284
-91,13,8,7,40,within a few days,cottage,rural,gym,110
-92,7,5,9,70,within an hour,apartment,beachfront,parking,199
-93,6,5,0,46,within a few hours,cottage,beachfront,pet-friendly,74
-94,16,0,1,71,within a few days,house,beachfront,pet-friendly,289
-95,6,2,7,80,within a day,villa,beachfront,wifi,49
-96,14,9,0,86,within a few hours,cabin,beachfront,gym,363
-97,3,4,10,38,within an hour,cottage,rural,wifi,87
-98,7,2,9,1,within a few days,villa,downtown,parking,31
-99,7,5,7,10,within a few days,cottage,downtown,wifi,253
-100,16,3,5,81,within a day,apartment,suburban,pet-friendly,344
-101,10,10,5,6,within a few days,apartment,downtown,gym,62
-102,5,8,8,58,within a few days,cottage,downtown,gym,259
-103,14,1,10,19,within a day,cottage,downtown,parking,87
-104,14,3,5,4,within a few hours,villa,downtown,wifi,93
-105,18,10,4,100,within a few hours,apartment,rural,wifi,16
-106,13,7,5,37,within an hour,apartment,rural,wifi,116
-107,10,2,2,79,within a few hours,house,suburban,parking,70
-108,19,2,3,65,within a few days,house,suburban,gym,327
-109,6,0,4,89,within an hour,house,suburban,pool,200
-110,7,3,9,80,within a day,villa,beachfront,pet-friendly,181
-111,13,5,6,55,within a few days,villa,rural,gym,184
-112,16,5,4,27,within a day,house,rural,wifi,334
-113,11,7,9,61,within a day,cottage,beachfront,gym,219
-114,11,9,1,85,within a day,house,suburban,pet-friendly,131
-115,16,5,10,23,within a few hours,cabin,beachfront,parking,243
-116,16,4,4,97,within a day,villa,suburban,parking,100
-117,8,9,2,55,within a day,apartment,suburban,pet-friendly,360
-118,20,0,2,4,within a few hours,house,beachfront,gym,207
-119,16,7,0,92,within an hour,house,suburban,pool,327
-120,3,10,0,27,within a few hours,villa,rural,pool,136
-121,4,10,6,91,within a day,cottage,rural,parking,149
-122,5,1,5,39,within an hour,villa,beachfront,pool,42
-123,3,6,10,16,within a few days,villa,suburban,parking,152
-124,13,6,10,44,within a few days,house,rural,pool,9
-125,6,3,5,1,within a few days,cabin,downtown,parking,79
-126,10,2,3,68,within a day,cabin,beachfront,wifi,149
-127,10,1,5,52,within an hour,house,suburban,pool,26
-128,8,0,10,78,within a few days,house,beachfront,gym,189
-129,20,2,6,17,within a day,cottage,beachfront,pool,313
-130,3,3,5,3,within a day,cabin,beachfront,gym,81
-131,11,3,10,77,within a few days,cottage,downtown,parking,4
-132,16,3,0,45,within an hour,cabin,suburban,pet-friendly,284
-133,10,7,7,51,within an hour,cottage,downtown,wifi,205
-134,16,6,0,51,within an hour,apartment,suburban,gym,28
-135,6,2,0,70,within a few days,cottage,suburban,pet-friendly,286
-136,12,5,6,55,within an hour,apartment,suburban,parking,46
-137,10,7,4,38,within a day,house,rural,pool,134
-138,6,6,9,40,within a few days,cottage,suburban,pool,283
-139,15,3,4,41,within a few days,cabin,suburban,wifi,330
-140,7,3,9,2,within a few days,cottage,suburban,gym,97
-141,11,4,10,53,within a day,cottage,rural,pet-friendly,239
-142,19,3,9,54,within a few hours,villa,suburban,pool,145
-143,9,1,1,26,within a few days,house,rural,pool,348
-144,9,2,8,38,within a few days,cabin,suburban,pool,70
-145,8,2,2,6,within a day,apartment,suburban,pet-friendly,231
-146,9,10,2,77,within a few hours,apartment,downtown,pool,215
-147,15,8,7,84,within a few hours,villa,suburban,wifi,208
-148,3,4,10,42,within a few days,house,beachfront,gym,30
-149,14,10,9,35,within a few days,cabin,suburban,wifi,299
-150,3,8,2,29,within a few days,apartment,rural,pet-friendly,83
-151,4,7,10,43,within a few hours,cabin,beachfront,pool,325
-152,6,9,9,36,within a few hours,villa,beachfront,wifi,314
-153,16,3,9,36,within an hour,cottage,downtown,gym,350
-154,6,8,1,23,within a day,cabin,downtown,gym,228
-155,10,1,3,29,within an hour,villa,downtown,gym,224
-156,3,1,0,50,within a few days,villa,beachfront,wifi,116
-157,1,4,2,100,within a few days,apartment,rural,wifi,274
-158,9,9,5,95,within a few hours,cabin,beachfront,gym,311
-159,13,1,8,63,within a few hours,villa,suburban,gym,319
-160,10,9,6,31,within a day,villa,rural,wifi,238
-161,17,4,1,59,within a day,house,rural,wifi,146
-162,18,8,6,93,within a few days,cottage,beachfront,pool,312
-163,4,6,0,72,within an hour,apartment,suburban,gym,65
-164,17,7,6,68,within a day,house,downtown,wifi,106
-165,12,2,5,66,within a few hours,villa,downtown,pet-friendly,198
-166,12,3,5,15,within a day,apartment,downtown,wifi,129
-167,20,2,8,4,within an hour,cabin,downtown,gym,141
-168,6,10,0,32,within a few days,cottage,downtown,parking,347
-169,15,5,8,89,within a day,cottage,suburban,pet-friendly,36
-170,9,0,4,92,within a day,villa,downtown,gym,180
-171,14,4,8,61,within a few hours,villa,rural,gym,323
-172,12,3,3,2,within a few hours,cabin,suburban,parking,284
-173,5,7,6,75,within a few hours,cabin,suburban,gym,19
-174,11,1,3,6,within a few days,cottage,rural,gym,275
-175,14,9,6,38,within a few days,house,suburban,gym,338
-176,7,1,8,92,within a few hours,villa,suburban,gym,244
-177,18,8,10,59,within a day,villa,beachfront,pool,128
-178,1,9,8,28,within a day,villa,downtown,pet-friendly,49
-179,3,2,1,24,within a few days,cottage,rural,pool,121
-180,3,1,5,75,within a few days,apartment,beachfront,gym,204
-181,15,2,1,76,within a day,villa,beachfront,wifi,149
-182,5,1,2,15,within a few hours,apartment,suburban,pet-friendly,45
-183,10,1,4,16,within a day,villa,beachfront,pool,268
-184,9,2,5,3,within a few hours,cabin,suburban,gym,241
-185,12,9,5,85,within a few days,apartment,downtown,wifi,51
-186,3,10,2,3,within an hour,apartment,rural,pool,1
-187,16,8,7,67,within a day,apartment,suburban,wifi,135
-188,10,4,0,84,within an hour,house,suburban,parking,198
-189,11,10,5,54,within a few days,villa,rural,pet-friendly,50
-190,8,2,8,89,within a day,villa,downtown,gym,202
-191,18,4,5,65,within an hour,cottage,downtown,pet-friendly,315
-192,15,8,10,75,within a few days,cottage,downtown,pool,109
-193,20,8,7,5,within a few days,cabin,downtown,gym,145
-194,20,2,9,12,within an hour,villa,rural,parking,213
-195,5,0,7,28,within a few hours,apartment,suburban,wifi,275
-196,7,6,6,90,within a few days,apartment,downtown,gym,38
-197,16,9,4,89,within a day,cabin,rural,pool,16
-198,7,3,4,46,within an hour,house,suburban,wifi,269
-199,16,0,9,64,within a few hours,villa,downtown,gym,231
-200,20,3,10,28,within a few hours,cottage,beachfront,parking,70
-201,13,7,7,23,within a few hours,cottage,rural,pool,146
-202,13,10,3,18,within a few hours,house,beachfront,pool,298
-203,15,8,9,69,within a few hours,apartment,beachfront,parking,365
-204,9,2,7,59,within a few days,house,beachfront,pet-friendly,64
-205,17,8,5,25,within a few days,apartment,downtown,wifi,148
-206,2,8,9,3,within an hour,villa,downtown,pool,266
-207,11,7,2,76,within a few days,house,suburban,pool,308
-208,4,9,0,29,within a few hours,house,suburban,gym,177
-209,4,7,7,91,within a day,cottage,suburban,pool,311
-210,10,5,3,85,within a day,house,beachfront,pet-friendly,71
-211,11,4,5,22,within a day,house,rural,parking,174
-212,12,4,10,97,within a day,villa,suburban,gym,159
-213,18,1,9,87,within a few hours,house,suburban,gym,182
-214,3,10,6,37,within a few hours,house,rural,gym,324
-215,15,8,4,25,within a day,villa,beachfront,pool,20
-216,9,9,1,88,within a few days,apartment,suburban,parking,362
-217,13,3,9,23,within a few days,cabin,rural,wifi,106
-218,7,8,1,45,within an hour,house,rural,wifi,228
-219,2,9,3,100,within a few hours,house,suburban,wifi,284
-220,2,3,5,64,within a few days,cabin,rural,parking,314
-221,20,0,9,57,within a few hours,villa,rural,pet-friendly,289
-222,13,1,4,47,within a day,cabin,beachfront,wifi,44
-223,17,9,2,84,within a few hours,apartment,suburban,wifi,358
-224,18,1,1,19,within an hour,cottage,downtown,wifi,138
-225,16,1,4,50,within an hour,villa,suburban,gym,84
-226,14,9,1,4,within an hour,villa,beachfront,wifi,111
-227,7,5,9,11,within an hour,cabin,beachfront,pool,244
-228,13,9,0,52,within a few days,cabin,rural,parking,15
-229,13,3,10,2,within a few hours,house,downtown,pet-friendly,91
-230,13,1,3,83,within an hour,villa,downtown,parking,127
-231,1,6,7,56,within a day,house,suburban,wifi,73
-232,12,0,3,25,within a few hours,house,downtown,wifi,259
-233,6,7,7,94,within a few hours,apartment,suburban,pool,293
-234,20,9,5,61,within a few hours,cabin,downtown,parking,91
-235,9,9,0,87,within an hour,house,suburban,pet-friendly,211
-236,3,2,8,13,within an hour,cottage,beachfront,pool,114
-237,8,2,3,77,within a few days,villa,downtown,pool,109
-238,1,4,4,64,within an hour,villa,downtown,pet-friendly,88
-239,20,3,7,20,within a day,villa,suburban,gym,56
-240,12,7,8,71,within a few hours,apartment,suburban,parking,15
-241,7,9,5,29,within a day,house,beachfront,parking,56
-242,19,6,0,10,within a few hours,cabin,rural,parking,48
-243,2,6,4,74,within a day,cabin,suburban,pet-friendly,283
-244,18,6,10,82,within a few days,cabin,beachfront,wifi,285
-245,11,6,0,47,within a few days,villa,downtown,pool,282
-246,7,5,3,85,within a few days,cottage,downtown,pool,138
-247,5,9,5,18,within a few hours,house,rural,pool,77
-248,10,6,2,90,within a day,villa,rural,gym,343
-249,20,5,3,30,within a few days,apartment,downtown,parking,295
-250,7,6,1,67,within an hour,house,downtown,parking,157
-251,5,7,4,59,within an hour,villa,suburban,wifi,106
-252,3,7,8,60,within an hour,villa,rural,wifi,145
-253,9,4,10,98,within an hour,apartment,downtown,parking,296
-254,11,1,3,10,within a few days,villa,rural,pool,81
-255,12,9,3,57,within a few days,cottage,beachfront,gym,172
-256,13,4,5,89,within a day,house,beachfront,gym,66
-257,7,9,5,61,within a few hours,villa,rural,pet-friendly,226
-258,14,7,1,48,within an hour,cottage,beachfront,pool,16
-259,10,5,5,61,within a few hours,apartment,rural,gym,333
-260,12,3,4,59,within a few days,apartment,rural,parking,34
-261,4,9,4,81,within a day,villa,downtown,gym,301
-262,14,1,6,7,within an hour,villa,downtown,wifi,107
-263,14,7,10,51,within an hour,house,suburban,pool,218
-264,1,5,9,68,within a day,house,suburban,pool,244
-265,16,7,0,72,within a few days,house,suburban,wifi,176
-266,14,9,0,26,within an hour,cottage,downtown,pool,231
-267,13,3,4,26,within a few hours,house,rural,wifi,54
-268,3,6,5,68,within a day,house,suburban,pet-friendly,121
-269,9,8,7,16,within an hour,villa,suburban,parking,362
-270,13,3,9,60,within a day,cabin,beachfront,wifi,293
-271,16,7,1,34,within a day,cabin,suburban,gym,260
-272,16,6,9,81,within a few hours,cabin,beachfront,parking,52
-273,1,9,2,67,within a few days,villa,beachfront,pool,325
-274,8,8,6,44,within a few days,house,suburban,pool,91
-275,1,0,7,78,within a few hours,apartment,downtown,parking,275
-276,1,8,1,81,within a day,apartment,suburban,parking,190
-277,19,2,8,21,within an hour,cabin,downtown,gym,187
-278,13,0,7,38,within a few days,cabin,downtown,pet-friendly,102
-279,16,6,9,24,within an hour,cottage,downtown,gym,310
-280,5,3,5,3,within a day,cabin,suburban,parking,83
-281,15,10,2,7,within an hour,house,rural,gym,209
-282,3,4,0,21,within a day,apartment,downtown,gym,239
-283,2,2,10,66,within a day,house,downtown,wifi,90
-284,13,10,9,72,within a few hours,cabin,suburban,pet-friendly,301
-285,2,5,7,52,within a day,cottage,suburban,wifi,310
-286,7,2,9,79,within a few days,house,downtown,gym,166
-287,1,10,2,4,within a day,cottage,suburban,pet-friendly,135
-288,2,6,4,8,within an hour,cottage,suburban,pet-friendly,13
-289,8,4,10,56,within an hour,cabin,downtown,parking,122
-290,14,10,1,86,within an hour,cabin,rural,parking,354
-291,4,8,6,58,within a few hours,house,suburban,wifi,112
-292,13,8,1,95,within a few hours,villa,downtown,gym,10
-293,17,8,1,31,within a day,cottage,rural,pool,269
-294,19,4,1,30,within a few hours,cabin,rural,parking,257
-295,7,4,7,74,within a few days,cottage,rural,wifi,132
-296,20,2,0,70,within a day,cabin,rural,pool,347
-297,3,5,5,43,within a few days,villa,suburban,pool,175
-298,16,3,4,61,within an hour,apartment,rural,pool,273
-299,3,0,2,14,within an hour,cottage,suburban,parking,55
-300,3,9,0,56,within a day,cabin,downtown,parking,153
-301,7,9,4,47,within a few days,cottage,suburban,parking,185
-302,12,10,3,5,within an hour,house,rural,gym,190
-303,19,3,7,56,within a day,villa,beachfront,gym,344
-304,2,4,10,49,within a few days,apartment,rural,pet-friendly,3
-305,15,1,4,3,within an hour,villa,rural,gym,141
-306,1,7,5,33,within a day,cabin,beachfront,parking,28
-307,5,0,1,35,within a few hours,cabin,downtown,wifi,50
-308,17,9,10,0,within a day,villa,rural,gym,202
-309,1,0,3,77,within a day,cottage,downtown,pet-friendly,182
-310,19,10,10,43,within a day,cabin,beachfront,parking,359
-311,2,5,10,52,within a few days,apartment,rural,pet-friendly,156
-312,10,3,4,91,within a day,house,suburban,pool,309
-313,19,8,9,71,within a day,cottage,rural,pool,279
-314,11,9,2,87,within a few days,cabin,downtown,pet-friendly,303
-315,7,5,2,10,within a few hours,cabin,beachfront,wifi,27
-316,17,1,7,91,within a day,cabin,beachfront,gym,139
-317,2,10,8,4,within a few days,cabin,beachfront,parking,173
-318,19,1,9,14,within a day,house,downtown,pool,15
-319,6,1,1,100,within a few days,cabin,downtown,parking,87
-320,11,2,4,32,within a few hours,cottage,beachfront,gym,158
-321,1,5,10,17,within an hour,villa,suburban,pet-friendly,338
-322,5,5,0,44,within a day,house,suburban,gym,108
-323,6,5,1,93,within a day,villa,rural,pet-friendly,343
-324,17,4,2,68,within an hour,villa,beachfront,gym,227
-325,17,10,0,32,within a few hours,house,beachfront,wifi,306
-326,7,2,6,95,within a day,cottage,downtown,pet-friendly,114
-327,7,9,9,99,within an hour,cottage,rural,pool,280
-328,14,9,5,34,within a few hours,villa,downtown,pool,94
-329,1,5,4,95,within a day,cottage,suburban,wifi,131
-330,18,10,8,69,within a day,apartment,suburban,wifi,184
-331,10,8,10,66,within an hour,apartment,beachfront,gym,38
-332,10,1,5,99,within a day,cabin,suburban,pet-friendly,351
-333,12,9,1,71,within an hour,cottage,beachfront,parking,22
-334,20,10,8,80,within a few hours,cottage,rural,gym,359
-335,18,2,0,68,within a day,house,downtown,parking,338
-336,5,1,4,87,within a day,apartment,downtown,wifi,63
-337,13,5,1,47,within an hour,villa,suburban,wifi,8
-338,12,5,7,5,within a few hours,apartment,downtown,pet-friendly,262
-339,19,9,0,0,within a few hours,cottage,rural,pet-friendly,123
-340,10,7,4,50,within a few hours,cabin,suburban,pet-friendly,91
-341,9,6,9,22,within an hour,apartment,downtown,parking,222
-342,13,10,2,58,within a few hours,apartment,downtown,pool,345
-343,14,8,3,29,within a few days,cabin,beachfront,pet-friendly,293
-344,1,8,4,64,within an hour,house,downtown,pet-friendly,127
-345,15,2,7,96,within a few hours,apartment,suburban,wifi,170
-346,3,4,0,67,within a few hours,house,rural,pool,32
-347,10,0,3,95,within an hour,cabin,rural,gym,201
-348,13,4,0,72,within a day,house,rural,pool,76
-349,17,7,5,83,within a few hours,cottage,rural,parking,171
-350,6,9,1,23,within a few days,apartment,suburban,gym,148
-351,10,3,2,100,within a few days,cabin,rural,gym,235
-352,5,8,3,13,within a few days,cabin,suburban,gym,247
-353,2,8,6,100,within a few hours,cottage,rural,wifi,27
-354,3,4,6,95,within a few days,cottage,beachfront,pool,272
-355,3,2,9,8,within an hour,cabin,rural,parking,353
-356,3,10,4,15,within a day,apartment,beachfront,pool,127
-357,8,4,7,28,within an hour,villa,beachfront,pool,37
-358,17,0,5,26,within a day,apartment,beachfront,pool,201
-359,15,7,5,6,within a few days,villa,rural,pool,88
-360,7,1,3,55,within a day,apartment,downtown,wifi,250
-361,6,9,7,58,within a day,villa,beachfront,pet-friendly,220
-362,20,6,3,3,within an hour,villa,beachfront,gym,189
-363,18,4,8,11,within an hour,cabin,suburban,wifi,316
-364,11,2,3,70,within a few days,apartment,suburban,gym,1
-365,5,8,9,76,within a few days,cabin,suburban,pool,298
-366,6,9,8,52,within an hour,villa,suburban,pet-friendly,57
-367,3,3,8,64,within a few days,house,rural,wifi,256
-368,1,1,5,86,within a few days,apartment,suburban,wifi,185
-369,13,4,8,71,within a few hours,villa,beachfront,wifi,330
-370,11,6,1,48,within a few hours,cabin,suburban,pet-friendly,56
-371,2,2,5,15,within a few days,house,beachfront,wifi,301
-372,4,9,5,58,within a few hours,house,suburban,wifi,10
-373,18,5,8,40,within a day,cabin,beachfront,pet-friendly,59
-374,16,6,0,65,within a few hours,cottage,rural,wifi,93
-375,10,5,0,33,within a few days,apartment,beachfront,wifi,224
-376,12,4,10,10,within a few hours,cabin,beachfront,pet-friendly,308
-377,15,1,2,73,within a few days,cabin,rural,wifi,176
-378,13,10,7,41,within a day,apartment,beachfront,gym,4
-379,3,9,4,40,within a few hours,apartment,beachfront,pet-friendly,355
-380,8,8,7,100,within a day,cottage,beachfront,pet-friendly,61
-381,7,7,1,48,within a day,cabin,downtown,pet-friendly,219
-382,19,6,0,100,within a few days,cottage,rural,pool,28
-383,13,6,3,44,within an hour,cabin,beachfront,gym,333
-384,13,6,4,20,within a few days,apartment,rural,gym,178
-385,19,7,6,92,within an hour,cottage,suburban,pet-friendly,154
-386,1,8,5,92,within a few hours,villa,beachfront,gym,269
-387,18,7,3,91,within a few hours,cabin,beachfront,pet-friendly,301
-388,16,5,9,29,within a few days,cabin,rural,wifi,277
-389,3,7,1,77,within an hour,villa,rural,parking,121
-390,16,0,7,28,within a few hours,cottage,suburban,pool,350
-391,8,2,7,90,within a few hours,cottage,suburban,wifi,224
-392,10,2,1,43,within a day,house,suburban,parking,171
-393,14,3,4,54,within an hour,villa,beachfront,pool,187
-394,11,7,5,3,within a few days,house,suburban,pet-friendly,362
-395,8,10,8,79,within a few hours,cabin,rural,parking,83
-396,3,9,5,11,within a day,cabin,downtown,pool,47
-397,16,10,5,36,within a few hours,cabin,downtown,parking,171
-398,19,0,7,24,within a few days,house,downtown,parking,57
-399,18,3,6,98,within a day,apartment,suburban,wifi,330
-400,18,3,9,84,within a few hours,cabin,downtown,gym,123
-401,3,4,4,33,within a day,cottage,beachfront,wifi,330
-402,9,6,1,88,within a day,cottage,beachfront,parking,355
-403,18,1,6,78,within a few hours,house,beachfront,gym,291
-404,5,1,5,93,within a day,apartment,beachfront,gym,274
-405,9,10,7,7,within a day,apartment,rural,parking,45
-406,15,10,7,89,within a few days,apartment,downtown,parking,147
-407,10,7,5,75,within a few days,villa,suburban,parking,363
-408,3,5,8,48,within a few days,villa,suburban,wifi,318
-409,17,9,10,16,within a day,apartment,downtown,pool,22
-410,20,8,1,40,within a few days,cabin,downtown,parking,148
-411,16,6,4,31,within a day,villa,suburban,parking,137
-412,12,4,1,35,within a day,apartment,rural,parking,175
-413,18,8,3,40,within a day,house,beachfront,wifi,231
-414,6,6,10,90,within a day,cabin,beachfront,parking,299
-415,20,7,9,30,within a few days,villa,suburban,parking,290
-416,4,8,0,61,within a day,apartment,downtown,gym,141
-417,5,4,3,12,within an hour,apartment,beachfront,pet-friendly,302
-418,11,7,6,33,within a few days,house,suburban,wifi,162
-419,5,0,10,20,within a few hours,cabin,rural,gym,274
-420,17,1,10,9,within an hour,cabin,downtown,gym,286
-421,18,6,0,66,within a few days,villa,suburban,pet-friendly,363
-422,15,6,8,35,within a few hours,house,beachfront,parking,26
-423,20,5,8,95,within an hour,house,beachfront,pet-friendly,237
-424,12,2,5,23,within a few days,apartment,suburban,pet-friendly,208
-425,16,7,7,70,within a few days,cottage,suburban,pet-friendly,10
-426,8,3,7,46,within an hour,apartment,downtown,parking,283
-427,12,9,1,11,within an hour,cottage,suburban,pet-friendly,87
-428,16,2,3,49,within a few hours,apartment,beachfront,gym,21
-429,10,0,1,6,within a day,house,rural,pool,224
-430,19,10,2,3,within an hour,house,suburban,pet-friendly,300
-431,2,6,4,32,within a few days,apartment,suburban,pool,193
-432,10,6,0,54,within an hour,cabin,rural,wifi,349
-433,6,1,3,29,within an hour,cottage,rural,pet-friendly,217
-434,6,5,7,20,within an hour,apartment,beachfront,pet-friendly,196
-435,10,8,4,19,within a few days,house,beachfront,wifi,266
-436,12,9,7,87,within a day,cabin,downtown,pool,215
-437,12,8,8,36,within an hour,villa,rural,pet-friendly,280
-438,14,6,10,38,within a day,cabin,suburban,pet-friendly,19
-439,7,1,2,32,within an hour,cabin,suburban,pool,225
-440,19,3,4,12,within a few days,apartment,suburban,pet-friendly,226
-441,17,7,0,94,within a few days,cabin,downtown,pet-friendly,338
-442,14,9,2,48,within a few hours,house,downtown,parking,333
-443,3,4,9,100,within an hour,villa,suburban,pet-friendly,250
-444,2,5,9,68,within a few hours,cabin,downtown,pet-friendly,168
-445,2,9,7,26,within a few days,villa,beachfront,wifi,121
-446,11,6,3,58,within a few days,cabin,rural,wifi,112
-447,19,2,6,45,within a few days,apartment,beachfront,wifi,93
-448,1,9,1,39,within an hour,house,downtown,pool,4
-449,10,9,6,99,within a few hours,house,downtown,pool,345
-450,2,2,0,0,within a day,cottage,rural,pet-friendly,46
-451,13,0,4,88,within a few hours,house,rural,pet-friendly,237
-452,9,7,9,99,within a few hours,house,suburban,gym,206
-453,15,5,2,8,within a few days,cottage,suburban,gym,256
-454,5,9,6,37,within a few hours,apartment,suburban,wifi,170
-455,7,2,3,22,within an hour,cottage,beachfront,wifi,141
-456,20,7,9,100,within an hour,cottage,downtown,pool,80
-457,19,8,3,69,within an hour,house,downtown,pool,180
-458,3,1,3,46,within a day,house,downtown,pet-friendly,283
-459,5,0,4,68,within a few hours,house,suburban,parking,309
-460,12,7,10,69,within a few days,apartment,beachfront,parking,286
-461,7,9,4,49,within a day,villa,downtown,pool,60
-462,20,2,0,52,within a few hours,cabin,downtown,wifi,179
-463,11,2,3,93,within a day,cabin,downtown,wifi,1
-464,1,7,6,28,within a few hours,house,beachfront,pet-friendly,77
-465,15,2,10,83,within a few days,cottage,rural,wifi,50
-466,7,8,10,93,within a few hours,cottage,rural,wifi,352
-467,7,1,7,76,within a few days,cottage,rural,gym,192
-468,10,2,1,85,within a day,apartment,downtown,pool,106
-469,7,8,7,35,within a few hours,cottage,suburban,pet-friendly,198
-470,13,9,3,24,within a few hours,villa,suburban,pet-friendly,114
-471,3,8,4,1,within a day,villa,beachfront,wifi,148
-472,14,7,0,18,within a day,villa,downtown,parking,109
-473,10,10,6,74,within a few days,house,rural,pet-friendly,262
-474,7,3,2,59,within a few hours,apartment,rural,pool,56
-475,4,8,10,4,within a few hours,cabin,beachfront,wifi,82
-476,3,4,7,87,within a few days,apartment,suburban,gym,60
-477,11,2,10,52,within a few days,apartment,downtown,gym,150
-478,16,8,1,54,within a few hours,cabin,suburban,gym,278
-479,1,3,10,90,within a few days,house,rural,gym,205
-480,19,1,4,94,within a few days,villa,downtown,parking,305
-481,8,2,5,72,within a few days,cottage,rural,gym,318
-482,15,9,1,12,within an hour,apartment,rural,pet-friendly,191
-483,3,6,8,3,within an hour,apartment,downtown,pool,267
-484,11,1,5,19,within a few days,villa,beachfront,pool,217
-485,7,2,2,54,within a few hours,apartment,suburban,gym,86
-486,2,3,4,73,within a day,cottage,suburban,gym,159
-487,6,2,1,87,within an hour,cottage,rural,wifi,170
-488,20,2,2,55,within a few days,cottage,downtown,parking,328
-489,18,5,9,27,within a few days,apartment,suburban,pet-friendly,127
-490,6,6,3,98,within a few days,villa,beachfront,parking,126
-491,19,2,4,64,within an hour,villa,rural,pool,319
-492,11,5,1,39,within a few days,cottage,rural,gym,12
-493,7,0,6,25,within an hour,villa,downtown,parking,203
-494,12,2,4,32,within a few hours,cabin,beachfront,parking,162
-495,9,9,9,51,within an hour,house,suburban,pool,145
-496,16,0,10,95,within an hour,house,downtown,pool,97
-497,19,0,8,3,within a few hours,villa,beachfront,parking,326
-498,11,2,5,43,within a day,cottage,beachfront,pool,320
-499,19,7,2,65,within a day,villa,rural,gym,19
-500,2,7,2,20,within a few hours,house,beachfront,wifi,3
-501,5,5,10,70,within a few days,cabin,rural,gym,352
-502,14,6,2,81,within a few days,house,downtown,wifi,280
-503,9,2,6,5,within an hour,cabin,rural,pet-friendly,139
-504,16,5,0,27,within a few hours,house,downtown,pool,178
-505,19,7,0,91,within an hour,cottage,rural,pool,12
-506,19,1,5,93,within a few hours,apartment,rural,pool,286
-507,20,7,8,91,within a few days,apartment,downtown,parking,275
-508,15,9,8,88,within an hour,villa,beachfront,wifi,65
-509,4,9,4,53,within a day,cottage,rural,pet-friendly,288
-510,17,8,2,48,within a few hours,apartment,suburban,pool,323
-511,14,0,1,82,within a few hours,cabin,beachfront,parking,70
-512,2,3,2,23,within an hour,house,suburban,pool,219
-513,16,0,3,35,within a day,cabin,suburban,parking,282
-514,12,8,5,81,within a few days,villa,rural,pet-friendly,170
-515,2,3,6,26,within a few hours,cabin,beachfront,pool,129
-516,11,0,5,28,within a few hours,cottage,suburban,wifi,146
-517,1,8,7,52,within an hour,villa,rural,wifi,139
-518,1,8,6,34,within a day,apartment,beachfront,wifi,13
-519,15,5,6,87,within a day,house,rural,gym,56
-520,3,2,7,50,within a few days,cabin,beachfront,pool,260
-521,7,4,4,54,within a day,cottage,beachfront,pet-friendly,108
-522,20,7,6,35,within a day,house,beachfront,gym,192
-523,15,1,9,52,within a few hours,house,rural,wifi,340
-524,14,7,9,96,within a few days,apartment,downtown,gym,116
-525,4,1,2,70,within a few hours,cottage,downtown,gym,3
-526,16,10,1,46,within an hour,apartment,suburban,gym,202
-527,3,10,3,77,within a few days,cabin,beachfront,pet-friendly,160
-528,8,2,9,53,within a few days,cabin,rural,pet-friendly,245
-529,6,8,4,77,within an hour,villa,rural,parking,39
-530,1,3,9,98,within a few days,villa,rural,parking,10
-531,13,1,2,98,within an hour,apartment,suburban,wifi,119
-532,11,0,4,44,within a few days,villa,beachfront,pool,150
-533,1,9,10,24,within a few days,house,beachfront,wifi,250
-534,20,4,8,25,within a few hours,cottage,beachfront,pet-friendly,141
-535,16,9,10,85,within an hour,cottage,rural,pool,277
-536,12,0,4,50,within a few days,villa,suburban,pet-friendly,288
-537,13,6,4,67,within a few hours,house,rural,pool,45
-538,12,1,5,31,within a day,villa,beachfront,gym,283
-539,4,1,8,55,within an hour,house,beachfront,pool,59
-540,20,0,2,95,within a few days,cottage,suburban,pet-friendly,112
-541,14,3,6,32,within a few days,villa,downtown,parking,74
-542,16,3,0,91,within a few hours,villa,rural,parking,1
-543,16,10,7,47,within a few days,villa,beachfront,pet-friendly,178
-544,20,9,4,3,within a few hours,cottage,downtown,wifi,189
-545,19,4,0,38,within an hour,house,suburban,pet-friendly,165
-546,15,4,10,7,within a few days,cottage,downtown,parking,245
-547,1,5,9,62,within an hour,villa,rural,wifi,186
-548,13,9,5,18,within a few days,cabin,downtown,parking,272
-549,5,6,0,39,within a few days,cottage,rural,gym,35
-550,1,3,5,7,within an hour,cabin,downtown,parking,76
-551,2,4,0,12,within a few days,cabin,suburban,gym,114
-552,5,2,8,10,within a day,apartment,suburban,pool,161
-553,2,5,6,83,within a few days,house,rural,wifi,351
-554,11,10,5,6,within a few days,apartment,rural,parking,42
-555,6,1,10,76,within a few hours,house,suburban,gym,159
-556,2,5,7,33,within an hour,apartment,beachfront,gym,238
-557,14,9,8,85,within an hour,villa,rural,gym,150
-558,16,7,7,98,within a few days,villa,suburban,wifi,33
-559,16,2,10,89,within a day,cottage,downtown,wifi,51
-560,2,0,5,29,within a day,villa,downtown,pet-friendly,148
-561,6,7,0,85,within a few hours,apartment,suburban,pet-friendly,324
-562,16,5,10,87,within a day,house,beachfront,parking,165
-563,19,8,8,66,within a few days,house,beachfront,parking,35
-564,5,5,7,44,within a few days,villa,downtown,pet-friendly,11
-565,11,1,3,44,within a day,apartment,beachfront,gym,12
-566,11,3,6,91,within an hour,cottage,beachfront,pet-friendly,115
-567,18,9,10,73,within a day,house,beachfront,gym,291
-568,17,8,2,4,within a few hours,house,suburban,parking,251
-569,8,2,6,3,within a day,cabin,suburban,pet-friendly,186
-570,8,1,3,4,within an hour,house,suburban,pool,143
-571,2,6,2,52,within a few hours,apartment,beachfront,pet-friendly,48
-572,4,3,9,31,within an hour,cottage,downtown,pet-friendly,292
-573,17,8,2,27,within a few hours,villa,downtown,pet-friendly,27
-574,3,10,0,85,within a few days,house,rural,pet-friendly,18
-575,15,0,2,65,within a few hours,villa,beachfront,parking,227
-576,6,10,1,23,within an hour,apartment,beachfront,gym,150
-577,2,9,0,90,within a few hours,cottage,beachfront,pool,57
-578,12,3,7,82,within an hour,villa,downtown,pool,180
-579,4,8,4,58,within a few days,villa,rural,gym,11
-580,10,7,10,65,within a few hours,cabin,beachfront,pet-friendly,218
-581,15,9,10,0,within an hour,cottage,suburban,pet-friendly,82
-582,10,10,3,92,within a day,house,downtown,wifi,100
-583,2,7,10,78,within a day,cabin,rural,pet-friendly,239
-584,13,8,2,23,within a few hours,cottage,downtown,gym,125
-585,20,9,4,41,within a few days,cabin,downtown,pet-friendly,305
-586,10,3,10,24,within a day,apartment,downtown,gym,252
-587,15,6,5,51,within a few days,villa,beachfront,gym,104
-588,14,0,1,93,within a few hours,house,rural,gym,179
-589,12,3,8,82,within a day,house,downtown,pet-friendly,74
-590,15,1,6,81,within a day,cabin,suburban,gym,169
-591,2,6,10,78,within a few days,villa,suburban,parking,229
-592,11,6,1,92,within an hour,apartment,downtown,pool,175
-593,10,2,4,19,within a few days,villa,beachfront,pet-friendly,256
-594,16,6,10,22,within a few hours,apartment,beachfront,parking,179
-595,19,10,9,62,within a few days,apartment,suburban,wifi,340
-596,9,9,9,100,within a few days,villa,beachfront,pool,224
-597,3,5,2,94,within a few hours,cabin,suburban,pet-friendly,289
-598,3,0,1,68,within a few hours,cottage,downtown,parking,79
-599,9,7,2,10,within a few hours,apartment,rural,wifi,92
-600,5,2,2,83,within an hour,house,downtown,pet-friendly,11
-601,6,5,10,2,within an hour,house,downtown,gym,349
-602,13,10,5,76,within a few days,cottage,rural,pet-friendly,168
-603,6,0,1,60,within a day,cabin,beachfront,gym,122
-604,9,1,7,7,within a few days,apartment,beachfront,pool,164
-605,10,6,10,97,within an hour,apartment,suburban,pet-friendly,270
-606,1,9,1,91,within an hour,apartment,rural,wifi,140
-607,6,0,5,4,within a day,house,suburban,gym,156
-608,12,6,2,53,within a day,cottage,beachfront,pool,73
-609,14,9,6,10,within a day,villa,downtown,parking,143
-610,2,10,8,29,within an hour,cottage,downtown,pet-friendly,204
-611,12,9,2,29,within a few hours,villa,beachfront,wifi,72
-612,15,8,1,72,within a few hours,villa,suburban,gym,225
-613,20,9,2,0,within an hour,villa,suburban,pet-friendly,359
-614,1,4,0,59,within a few hours,cabin,rural,pool,236
-615,9,3,3,90,within a few hours,apartment,suburban,gym,64
-616,12,4,8,45,within a day,cottage,rural,gym,18
-617,8,5,1,18,within a day,villa,beachfront,wifi,72
-618,6,8,9,62,within a few hours,villa,downtown,pet-friendly,299
-619,4,6,3,2,within a day,cottage,rural,wifi,47
-620,14,7,1,42,within a few days,cottage,downtown,parking,230
-621,5,8,10,98,within an hour,apartment,downtown,parking,230
-622,1,7,9,50,within a few hours,villa,rural,wifi,270
-623,13,5,3,36,within a few days,house,beachfront,gym,308
-624,13,5,8,39,within a day,apartment,rural,pet-friendly,328
-625,20,3,5,36,within a few hours,cottage,rural,pool,249
-626,6,8,9,38,within a day,cabin,downtown,gym,19
-627,14,8,4,67,within a few hours,villa,beachfront,wifi,140
-628,20,1,8,25,within an hour,cabin,beachfront,pet-friendly,219
-629,18,10,4,70,within a day,apartment,beachfront,pool,352
-630,5,4,10,15,within a few days,house,rural,gym,26
-631,13,2,8,8,within a few days,cabin,rural,parking,118
-632,12,10,6,64,within an hour,house,suburban,parking,71
-633,2,7,7,21,within a day,cottage,suburban,pool,139
-634,8,2,5,42,within an hour,villa,rural,parking,160
-635,5,2,0,77,within a few days,apartment,rural,pool,10
-636,10,5,4,46,within a few hours,cottage,suburban,gym,65
-637,15,2,9,99,within a day,villa,suburban,pet-friendly,338
-638,9,2,1,89,within a few days,cottage,beachfront,gym,21
-639,9,7,6,5,within a day,apartment,suburban,pool,140
-640,15,3,2,17,within a few days,villa,rural,pet-friendly,21
-641,5,5,8,74,within a few hours,apartment,beachfront,pool,8
-642,10,8,10,84,within a few days,apartment,rural,wifi,220
-643,18,10,10,44,within a few hours,house,rural,parking,296
-644,19,4,2,55,within a few days,villa,suburban,gym,76
-645,10,10,5,43,within a day,cabin,suburban,parking,170
-646,3,10,8,0,within a few hours,cabin,downtown,parking,136
-647,7,10,3,11,within a few hours,house,rural,wifi,333
-648,16,1,1,85,within a few days,cabin,downtown,wifi,296
-649,20,2,8,11,within a few hours,house,rural,pet-friendly,275
-650,10,5,4,21,within an hour,house,rural,parking,5
-651,8,5,7,8,within a day,house,beachfront,pet-friendly,49
-652,1,5,9,71,within a few days,cottage,rural,parking,292
-653,20,8,8,14,within a day,apartment,rural,pet-friendly,304
-654,1,0,10,74,within a few days,house,downtown,parking,37
-655,7,0,2,61,within a day,house,rural,pet-friendly,214
-656,7,2,7,2,within a day,house,rural,parking,118
-657,19,5,7,3,within a few hours,cabin,rural,parking,198
-658,10,5,10,68,within a few days,cottage,suburban,wifi,8
-659,6,1,5,37,within an hour,house,rural,gym,143
-660,20,10,6,29,within a day,villa,suburban,gym,233
-661,4,5,8,0,within a day,apartment,downtown,parking,317
-662,4,7,3,43,within a few hours,cottage,beachfront,pet-friendly,101
-663,4,5,2,75,within a day,apartment,rural,parking,86
-664,2,5,9,10,within an hour,cottage,rural,wifi,156
-665,4,1,9,11,within an hour,cabin,beachfront,wifi,74
-666,11,9,6,67,within an hour,cottage,downtown,pool,158
-667,3,10,7,91,within a day,cottage,suburban,gym,252
-668,6,8,0,26,within a few hours,cabin,rural,gym,338
-669,3,5,7,93,within an hour,apartment,beachfront,pool,131
-670,2,10,10,92,within a few days,apartment,beachfront,wifi,251
-671,19,1,1,66,within a few hours,villa,rural,pool,325
-672,2,0,4,66,within a day,apartment,suburban,gym,230
-673,1,2,1,89,within an hour,cabin,beachfront,pet-friendly,40
-674,20,6,7,40,within a few hours,apartment,downtown,gym,330
-675,8,6,0,97,within an hour,cabin,suburban,gym,117
-676,14,10,4,77,within an hour,villa,beachfront,pet-friendly,303
-677,16,9,0,36,within an hour,apartment,beachfront,gym,125
-678,20,6,3,15,within a few hours,villa,beachfront,wifi,252
-679,18,6,9,8,within a few hours,apartment,beachfront,pool,357
-680,1,10,3,94,within an hour,apartment,rural,pet-friendly,136
-681,13,8,10,83,within a few hours,cottage,rural,parking,45
-682,7,10,5,97,within a day,house,downtown,pool,141
-683,14,2,4,16,within a few hours,cottage,beachfront,gym,46
-684,12,2,7,7,within a day,house,rural,parking,163
-685,3,10,7,73,within a few days,cottage,beachfront,pool,302
-686,5,9,8,36,within a few days,cabin,suburban,wifi,175
-687,3,5,7,88,within a few days,house,rural,pet-friendly,300
-688,3,5,0,41,within a day,house,beachfront,wifi,137
-689,14,4,2,8,within a day,cabin,beachfront,wifi,212
-690,8,5,3,39,within a few days,cottage,rural,pet-friendly,239
-691,2,3,2,57,within a few days,apartment,beachfront,wifi,169
-692,9,10,8,8,within a few days,house,beachfront,gym,253
-693,13,9,9,11,within a few hours,house,rural,parking,274
-694,18,10,5,46,within a few hours,villa,beachfront,pool,159
-695,5,6,2,52,within a few hours,cabin,suburban,gym,287
-696,19,6,0,35,within a few hours,house,beachfront,pet-friendly,289
-697,18,10,7,33,within an hour,cottage,beachfront,gym,141
-698,2,6,7,73,within a few hours,cabin,beachfront,gym,254
-699,7,5,0,12,within a few days,cabin,beachfront,wifi,135
-700,15,9,4,89,within a few days,villa,downtown,wifi,7
-701,4,0,8,24,within a day,cabin,suburban,wifi,250
-702,3,4,2,42,within a few hours,cabin,rural,parking,56
-703,5,9,0,23,within a few hours,cabin,suburban,pool,126
-704,16,1,5,34,within a few days,house,suburban,pool,27
-705,1,3,2,24,within a few days,cottage,suburban,pool,52
-706,10,2,3,37,within a few hours,apartment,suburban,pool,20
-707,7,9,10,14,within a few days,house,suburban,pool,161
-708,18,2,5,67,within a few days,apartment,beachfront,pool,256
-709,13,8,1,5,within a few days,cabin,rural,wifi,210
-710,1,10,5,10,within a few days,cottage,suburban,gym,145
-711,15,2,0,7,within a few days,house,rural,gym,252
-712,9,4,6,13,within a few days,villa,beachfront,wifi,88
-713,6,3,8,22,within an hour,cabin,downtown,wifi,303
-714,9,8,5,23,within an hour,house,suburban,wifi,103
-715,5,0,10,38,within a few days,cottage,downtown,wifi,54
-716,14,4,9,33,within a day,house,suburban,gym,142
-717,17,5,2,13,within a day,house,beachfront,pet-friendly,49
-718,15,7,7,75,within a few hours,cottage,suburban,wifi,365
-719,13,6,9,43,within a day,cottage,suburban,gym,301
-720,15,5,0,39,within an hour,cabin,rural,pet-friendly,138
-721,2,4,4,84,within a day,villa,beachfront,parking,1
-722,18,4,1,59,within a few hours,cottage,downtown,parking,202
-723,20,4,8,44,within a few hours,apartment,suburban,parking,118
-724,3,1,8,8,within an hour,house,rural,wifi,299
-725,16,3,7,28,within a few days,apartment,beachfront,pet-friendly,84
-726,4,3,5,75,within a few hours,cabin,downtown,pool,50
-727,7,4,0,65,within a few days,cabin,beachfront,gym,143
-728,7,5,7,42,within a day,apartment,suburban,wifi,305
-729,2,7,3,47,within a few hours,house,suburban,pool,140
-730,7,10,4,58,within a few days,villa,suburban,parking,66
-731,15,1,8,60,within a few days,cabin,beachfront,pool,295
-732,14,5,9,32,within an hour,cottage,beachfront,gym,140
-733,1,9,4,17,within a few hours,apartment,rural,pool,332
-734,4,10,6,43,within a few days,cottage,downtown,pet-friendly,258
-735,11,2,5,1,within a few hours,villa,rural,pool,28
-736,14,5,7,77,within a day,apartment,rural,pet-friendly,338
-737,17,3,7,33,within a few days,house,beachfront,wifi,343
-738,2,0,10,41,within a day,villa,suburban,parking,143
-739,13,8,8,75,within a day,cottage,rural,wifi,203
-740,10,6,0,63,within a few days,cabin,downtown,gym,348
-741,1,8,2,90,within a few hours,cabin,beachfront,wifi,71
-742,10,5,9,61,within a few hours,house,rural,gym,33
-743,11,0,3,18,within an hour,house,rural,pet-friendly,217
-744,4,10,10,97,within an hour,cabin,downtown,gym,301
-745,5,1,1,45,within an hour,house,beachfront,wifi,263
-746,16,7,0,82,within a few days,cabin,suburban,gym,288
-747,10,3,4,42,within an hour,house,beachfront,gym,183
-748,19,5,3,97,within an hour,apartment,suburban,pet-friendly,29
-749,7,5,6,98,within a few hours,cottage,rural,parking,308
-750,12,9,4,95,within an hour,apartment,beachfront,pet-friendly,258
-751,9,2,7,31,within a day,villa,downtown,pet-friendly,196
-752,12,0,1,15,within a few hours,villa,suburban,wifi,36
-753,12,7,6,36,within a few days,cabin,downtown,wifi,50
-754,11,6,1,42,within a few days,cottage,rural,wifi,288
-755,19,8,5,2,within an hour,villa,suburban,pet-friendly,199
-756,1,4,8,91,within a few hours,villa,suburban,gym,143
-757,6,9,1,68,within a few days,cabin,suburban,wifi,150
-758,20,4,7,28,within a day,cabin,rural,wifi,262
-759,13,4,10,96,within a day,cottage,beachfront,gym,142
-760,19,2,10,14,within a few days,cottage,beachfront,gym,79
-761,3,8,1,4,within a few hours,cabin,downtown,wifi,12
-762,18,7,7,78,within a few hours,villa,rural,pool,192
-763,20,4,6,26,within an hour,apartment,beachfront,gym,222
-764,17,7,9,52,within a day,house,rural,pool,157
-765,7,5,6,41,within an hour,apartment,beachfront,pet-friendly,365
-766,11,5,2,80,within a few days,cabin,suburban,pool,164
-767,18,9,5,56,within a day,cottage,downtown,gym,113
-768,12,8,10,37,within an hour,house,beachfront,gym,286
-769,12,3,7,94,within a few hours,cabin,downtown,gym,243
-770,8,3,10,2,within a few days,cottage,beachfront,pet-friendly,285
-771,11,1,0,19,within a day,apartment,beachfront,gym,17
-772,9,5,1,87,within a day,cottage,beachfront,pet-friendly,31
-773,3,3,6,78,within an hour,cabin,suburban,pet-friendly,23
-774,4,9,2,40,within a few hours,cabin,suburban,gym,74
-775,10,8,4,71,within a few hours,cabin,suburban,pool,225
-776,1,8,9,90,within an hour,cottage,downtown,pool,226
-777,17,10,6,24,within an hour,cottage,rural,pet-friendly,10
-778,12,6,8,0,within an hour,house,beachfront,wifi,332
-779,17,9,4,11,within a few hours,apartment,downtown,pool,204
-780,12,3,4,85,within a day,apartment,downtown,gym,335
-781,5,9,7,41,within a few hours,house,downtown,pool,37
-782,10,7,6,51,within a few hours,house,rural,pool,64
-783,20,0,3,98,within a few days,apartment,downtown,wifi,233
-784,17,8,6,41,within an hour,cottage,rural,wifi,46
-785,15,3,4,50,within a few hours,cabin,downtown,gym,283
-786,18,2,4,53,within a day,villa,beachfront,gym,355
-787,13,3,2,68,within a few hours,house,rural,wifi,294
-788,2,10,10,51,within an hour,cabin,rural,pet-friendly,263
-789,2,7,3,54,within a few days,apartment,suburban,wifi,309
-790,6,0,9,86,within a day,cabin,beachfront,gym,21
-791,9,4,6,24,within an hour,house,downtown,wifi,182
-792,9,5,4,67,within a few hours,apartment,suburban,pool,192
-793,11,0,2,0,within a few days,cabin,suburban,gym,348
-794,8,7,3,72,within a few days,apartment,suburban,wifi,353
-795,4,10,3,3,within a few hours,house,beachfront,wifi,13
-796,2,6,3,57,within an hour,cottage,downtown,wifi,352
-797,19,3,8,54,within a few hours,apartment,rural,wifi,312
-798,3,5,10,42,within an hour,cabin,downtown,pool,248
-799,17,5,2,18,within an hour,cabin,rural,pet-friendly,40
-800,20,5,9,37,within a day,cabin,beachfront,wifi,277
-801,15,4,1,77,within a few days,villa,suburban,pet-friendly,49
-802,4,2,8,33,within a few hours,apartment,rural,pool,3
-803,1,5,6,3,within a few hours,villa,downtown,parking,195
-804,5,3,5,39,within a day,cottage,beachfront,parking,66
-805,11,5,4,7,within a few hours,apartment,downtown,pet-friendly,225
-806,5,9,9,26,within a few days,cabin,rural,pet-friendly,354
-807,18,6,4,25,within a few days,house,suburban,parking,148
-808,16,1,1,85,within a few days,apartment,downtown,gym,23
-809,16,3,8,82,within a day,apartment,rural,pet-friendly,298
-810,6,8,6,47,within an hour,house,rural,parking,351
-811,5,9,8,34,within an hour,apartment,rural,gym,77
-812,5,2,6,68,within a few days,cabin,downtown,parking,112
-813,7,7,4,84,within a few hours,house,suburban,wifi,234
-814,10,6,0,0,within a few hours,cabin,rural,pool,226
-815,20,1,2,35,within a few hours,cottage,rural,parking,245
-816,19,2,4,50,within a few hours,apartment,rural,pool,348
-817,7,7,4,92,within an hour,house,beachfront,pet-friendly,213
-818,2,8,5,63,within a few days,villa,beachfront,wifi,42
-819,3,6,6,10,within a few days,cottage,downtown,pool,338
-820,15,6,8,83,within a day,cabin,downtown,parking,214
-821,9,3,10,91,within a few hours,apartment,beachfront,pet-friendly,90
-822,16,4,7,87,within a day,cottage,downtown,wifi,151
-823,12,1,1,9,within an hour,villa,beachfront,pet-friendly,126
-824,17,0,5,57,within a few days,house,downtown,gym,192
-825,17,6,3,97,within an hour,villa,suburban,pet-friendly,260
-826,8,4,4,69,within an hour,cottage,suburban,gym,48
-827,17,1,9,16,within a day,cabin,suburban,gym,259
-828,6,6,8,100,within a day,house,suburban,gym,250
-829,17,5,1,43,within a day,cottage,downtown,gym,38
-830,14,4,4,91,within a day,cottage,suburban,parking,305
-831,9,10,9,65,within a few hours,cottage,downtown,gym,174
-832,7,9,5,28,within a day,cabin,rural,wifi,40
-833,6,4,1,21,within a day,house,rural,pet-friendly,29
-834,14,5,8,93,within a day,villa,downtown,gym,173
-835,14,1,6,79,within an hour,cabin,rural,pool,127
-836,11,6,9,15,within an hour,cabin,rural,parking,319
-837,3,10,2,48,within a few hours,cabin,suburban,wifi,140
-838,18,6,9,35,within a few days,cabin,downtown,gym,190
-839,8,3,9,58,within a few hours,villa,suburban,parking,349
-840,1,5,5,85,within an hour,cottage,downtown,gym,173
-841,10,10,3,93,within an hour,cottage,suburban,gym,113
-842,4,7,6,19,within an hour,cottage,downtown,parking,83
-843,13,1,2,81,within a few hours,villa,rural,pool,261
-844,3,9,4,2,within an hour,villa,beachfront,parking,248
-845,14,0,1,92,within a few hours,cottage,suburban,pet-friendly,177
-846,7,10,3,51,within a few hours,cottage,suburban,wifi,212
-847,14,0,4,9,within a few days,apartment,rural,wifi,54
-848,3,2,2,10,within an hour,cabin,downtown,pool,281
-849,17,6,2,49,within a day,cabin,suburban,parking,236
-850,1,2,1,9,within a few hours,apartment,beachfront,gym,218
-851,3,0,7,90,within an hour,cabin,suburban,parking,302
-852,4,8,3,64,within a day,cottage,rural,gym,284
-853,7,10,0,0,within an hour,villa,beachfront,pet-friendly,182
-854,13,1,3,75,within a day,cottage,suburban,pet-friendly,348
-855,12,9,9,4,within an hour,cottage,suburban,pool,23
-856,4,3,5,81,within a few hours,cottage,downtown,wifi,101
-857,8,3,2,3,within an hour,apartment,rural,gym,304
-858,4,9,6,48,within a few hours,house,rural,gym,150
-859,16,2,8,33,within a few days,house,suburban,gym,153
-860,17,3,4,69,within a few hours,cabin,suburban,parking,216
-861,4,6,4,90,within a few days,cabin,beachfront,wifi,312
-862,1,0,8,50,within a day,cottage,downtown,parking,312
-863,18,1,8,55,within an hour,villa,rural,pool,353
-864,10,3,8,65,within an hour,cottage,suburban,pool,39
-865,7,1,3,91,within an hour,apartment,rural,pet-friendly,141
-866,11,10,3,69,within a day,house,downtown,parking,271
-867,17,2,7,56,within a few hours,villa,beachfront,pet-friendly,188
-868,12,4,2,6,within a few hours,cottage,downtown,gym,29
-869,6,2,2,77,within a few hours,apartment,suburban,parking,71
-870,4,8,4,64,within a few days,apartment,suburban,pool,186
-871,9,2,0,57,within a few days,apartment,suburban,pet-friendly,290
-872,5,3,4,45,within a day,house,beachfront,gym,285
-873,14,6,4,16,within an hour,cabin,rural,pool,190
-874,18,7,9,25,within a few days,villa,rural,pool,9
-875,14,3,8,51,within a few days,villa,rural,parking,68
-876,4,10,7,18,within an hour,house,downtown,parking,359
-877,18,0,8,69,within a few days,villa,beachfront,pool,325
-878,19,0,3,28,within an hour,cabin,rural,pool,233
-879,3,1,8,56,within an hour,villa,suburban,parking,302
-880,2,8,3,90,within a day,house,beachfront,gym,231
-881,5,7,10,38,within a day,apartment,downtown,parking,83
-882,9,6,5,56,within a few hours,cabin,beachfront,parking,297
-883,4,4,6,70,within a few hours,house,downtown,pet-friendly,301
-884,10,3,3,47,within a few hours,apartment,suburban,pool,80
-885,2,7,9,59,within a day,villa,rural,pool,257
-886,4,5,6,21,within an hour,cottage,beachfront,pet-friendly,85
-887,4,10,10,67,within a day,cottage,downtown,pet-friendly,290
-888,8,0,0,52,within a few hours,cabin,rural,pool,362
-889,17,2,2,93,within a few days,villa,beachfront,gym,198
-890,11,1,4,29,within a day,house,beachfront,wifi,300
-891,1,0,6,31,within an hour,house,downtown,parking,205
-892,10,8,1,93,within a few hours,villa,beachfront,gym,43
-893,11,1,4,63,within a few hours,villa,suburban,wifi,207
-894,5,6,7,66,within a day,cottage,downtown,wifi,210
-895,13,4,4,35,within an hour,apartment,rural,gym,110
-896,15,10,2,52,within a few hours,house,suburban,gym,217
-897,11,4,3,19,within a few days,apartment,beachfront,pool,228
-898,12,1,2,3,within a day,villa,downtown,gym,148
-899,19,8,8,6,within a few days,cottage,beachfront,parking,301
-900,1,6,2,31,within a few days,apartment,rural,parking,235
-901,5,4,8,24,within an hour,house,suburban,parking,5
-902,17,2,6,86,within a few days,house,downtown,wifi,279
-903,8,3,9,86,within a few days,apartment,rural,gym,41
-904,3,4,4,62,within a day,cabin,downtown,parking,12
-905,17,0,6,40,within an hour,house,suburban,pool,40
-906,6,0,6,19,within an hour,apartment,downtown,gym,86
-907,18,4,0,90,within a few hours,cottage,suburban,gym,332
-908,14,8,3,5,within a day,house,rural,parking,19
-909,2,9,1,3,within a day,house,suburban,gym,109
-910,5,9,6,95,within a few hours,cabin,rural,parking,181
-911,13,5,6,30,within a day,house,rural,pool,286
-912,9,5,3,59,within a day,cottage,downtown,parking,313
-913,18,3,0,2,within a few days,villa,rural,gym,299
-914,7,3,3,32,within a few days,house,downtown,gym,169
-915,13,5,1,34,within a few days,cottage,downtown,pool,183
-916,13,5,4,75,within a few days,villa,suburban,wifi,11
-917,10,7,10,23,within an hour,cabin,rural,gym,234
-918,5,0,10,26,within a day,cottage,rural,parking,91
-919,2,3,1,92,within a few days,cottage,suburban,pool,324
-920,4,4,8,6,within a few days,apartment,beachfront,parking,294
-921,11,4,1,56,within a few hours,villa,rural,pet-friendly,53
-922,17,6,2,88,within an hour,house,suburban,gym,364
-923,12,8,9,9,within a few hours,apartment,beachfront,pet-friendly,94
-924,16,6,3,93,within a day,house,rural,wifi,251
-925,13,4,9,84,within a day,cottage,downtown,gym,346
-926,15,10,4,58,within a few hours,cottage,downtown,pet-friendly,9
-927,6,6,1,27,within an hour,villa,downtown,pool,323
-928,12,4,1,40,within a few days,apartment,downtown,parking,98
-929,10,1,0,13,within a day,house,downtown,parking,196
-930,2,7,0,81,within an hour,house,suburban,parking,64
-931,11,5,6,32,within a day,apartment,suburban,pet-friendly,133
-932,9,1,7,14,within a few days,cottage,beachfront,pool,144
-933,18,7,4,12,within a few days,cabin,beachfront,parking,342
-934,15,1,2,13,within a few days,villa,suburban,parking,290
-935,7,8,4,55,within a few hours,cabin,beachfront,wifi,349
-936,19,8,4,51,within a few days,villa,beachfront,parking,275
-937,17,3,9,2,within a few days,house,rural,pool,20
-938,6,1,2,37,within an hour,apartment,suburban,gym,70
-939,18,4,5,47,within an hour,cabin,suburban,pool,332
-940,10,0,0,38,within a day,cabin,suburban,pool,238
-941,17,2,4,19,within a few hours,villa,rural,gym,340
-942,17,8,4,21,within a day,house,rural,pet-friendly,179
-943,14,6,10,76,within a few hours,house,downtown,wifi,136
-944,19,1,2,94,within a few hours,villa,suburban,parking,25
-945,1,3,5,60,within a few hours,apartment,rural,pool,69
-946,3,10,0,51,within a few days,apartment,beachfront,pet-friendly,194
-947,5,9,7,32,within a few days,cottage,beachfront,pool,19
-948,9,8,3,89,within a few hours,cottage,downtown,wifi,250
-949,4,2,3,36,within an hour,cottage,beachfront,parking,276
-950,19,9,5,10,within a day,house,beachfront,gym,167
-951,5,7,2,38,within a few hours,cabin,suburban,wifi,318
-952,4,2,9,100,within a day,apartment,beachfront,parking,257
-953,12,6,2,77,within a day,house,suburban,pet-friendly,206
-954,1,1,4,15,within a few days,cabin,downtown,gym,174
-955,19,1,7,8,within a day,house,beachfront,gym,202
-956,8,6,4,20,within an hour,villa,suburban,pet-friendly,281
-957,20,10,3,97,within an hour,apartment,beachfront,wifi,3
-958,13,9,0,48,within a day,apartment,downtown,pet-friendly,7
-959,16,0,2,46,within a few days,apartment,suburban,pet-friendly,357
-960,19,8,1,31,within an hour,apartment,downtown,pet-friendly,322
-961,11,7,6,38,within a few hours,cottage,downtown,pet-friendly,263
-962,19,1,0,54,within a day,apartment,beachfront,gym,230
-963,12,2,1,29,within a few hours,house,suburban,pet-friendly,240
-964,14,4,0,17,within a few hours,villa,rural,wifi,333
-965,11,4,1,86,within an hour,cabin,beachfront,pet-friendly,10
-966,11,7,4,29,within an hour,villa,suburban,gym,240
-967,18,7,8,75,within a few hours,villa,downtown,parking,257
-968,14,6,7,72,within a few days,apartment,suburban,pool,155
-969,18,9,6,58,within an hour,apartment,suburban,gym,98
-970,19,7,1,74,within an hour,cottage,suburban,pet-friendly,244
-971,15,1,5,96,within a day,house,suburban,wifi,352
-972,13,2,8,7,within a few hours,house,suburban,pet-friendly,350
-973,8,2,10,78,within a day,cottage,rural,pool,306
-974,18,10,0,37,within a few days,house,rural,parking,142
-975,15,7,2,94,within a day,villa,downtown,gym,147
-976,13,5,5,100,within a few days,villa,beachfront,parking,302
-977,9,9,5,0,within an hour,cottage,downtown,parking,119
-978,14,10,4,32,within a few days,apartment,suburban,parking,141
-979,1,4,5,70,within an hour,apartment,suburban,gym,307
-980,12,4,9,94,within an hour,apartment,beachfront,pool,12
-981,12,9,1,39,within an hour,house,suburban,gym,73
-982,7,3,0,4,within a few days,cottage,rural,gym,353
-983,14,3,6,3,within an hour,cabin,rural,gym,141
-984,19,10,3,93,within a few days,cabin,beachfront,gym,60
-985,8,10,8,24,within a few days,house,suburban,parking,257
-986,13,8,6,43,within an hour,cottage,downtown,gym,282
-987,12,3,10,60,within a few days,villa,rural,parking,308
-988,13,9,9,11,within a day,cottage,suburban,gym,46
-989,14,10,7,25,within a few days,apartment,beachfront,gym,210
-990,20,2,6,68,within an hour,apartment,suburban,gym,169
-991,17,7,6,57,within an hour,apartment,suburban,pet-friendly,330
-992,14,3,6,29,within a few hours,apartment,downtown,pool,226
-993,16,5,7,17,within an hour,cabin,suburban,gym,85
-994,15,8,3,93,within an hour,apartment,suburban,pool,69
-995,7,3,8,75,within a day,house,beachfront,wifi,33
-996,4,3,7,65,within a few hours,cottage,rural,wifi,273
-997,10,8,2,83,within a few days,villa,beachfront,wifi,284
-998,9,10,1,9,within a few days,apartment,rural,pool,105
-999,18,4,2,22,within a few hours,villa,beachfront,gym,300
-1000,19,5,10,27,within an hour,cottage,beachfront,parking,157
+review_score_rating,distance,neighborhood,number_of_reviews,review_scoring_rate,amenities,availability,price,number_of_accommodates,property_type,row_number
+2.0,78.13,uptown,937,82.13,gym,91,754.65,9,villa,1
+0.7,65.87,suburbs,990,84.89,wifi,290,510.34,8,villa,2
+4.4,50.64,uptown,934,67.88,pool,85,921.16,7,house,3
+3.0,89.88,downtown,690,23.91,wifi,12,258.58,1,villa,4
+4.5,71.29,downtown,642,13.44,gym,173,944.4,3,house,5
+9.8,68.41,suburbs,795,45.07,pool,86,181.77,5,apartment,6
+1.3,45.1,downtown,568,56.25,wifi,168,605.33,4,apartment,7
+6.8,14.75,suburbs,651,59.72,gym,108,776.44,3,villa,8
+5.7,8.95,downtown,289,76.38,gym,9,336.69,5,villa,9
+0.6,67.85,suburbs,851,22.08,pool,330,7.41,8,house,10
+0.2,28.44,uptown,200,56.39,pool,101,5.8,7,house,11
+4.0,15.65,downtown,967,31.43,pool,66,441.53,7,apartment,12
+1.6,76.43,suburbs,84,56.95,gym,24,134.88,4,villa,13
+6.6,13.74,uptown,312,30.23,pool,261,908.2,1,apartment,14
+9.3,94.05,suburbs,885,36.08,gym,77,992.15,8,apartment,15
+6.2,67.4,suburbs,670,58.19,pool,49,679.23,9,villa,16
+6.6,89.96,downtown,32,50.31,wifi,297,574.07,1,apartment,17
+4.4,82.5,downtown,854,23.96,gym,296,602.61,7,apartment,18
+6.2,59.2,uptown,84,79.86,wifi,218,596.42,2,villa,19
+4.7,0.56,suburbs,387,35.36,pool,299,300.9,9,apartment,20
+0.6,70.61,downtown,455,63.44,gym,47,280.61,4,villa,21
+4.5,31.32,downtown,452,47.99,gym,211,775.7,3,apartment,22
+0.8,75.61,uptown,631,8.33,wifi,49,463.17,2,villa,23
+7.6,78.43,uptown,235,11.55,gym,114,859.74,9,villa,24
+3.0,43.87,downtown,399,92.95,wifi,259,905.37,7,apartment,25
+5.4,31.76,suburbs,379,96.17,gym,215,334.88,10,house,26
+4.5,32.79,downtown,901,20.48,gym,51,207.91,7,villa,27
+9.7,4.0,downtown,616,64.72,pool,8,588.76,4,apartment,28
+1.4,89.59,downtown,497,3.2,pool,178,132.32,5,apartment,29
+2.3,19.57,suburbs,558,39.96,pool,362,478.04,6,villa,30
+5.2,73.82,downtown,444,76.41,gym,100,374.09,4,apartment,31
+0.6,49.75,suburbs,586,59.51,wifi,182,114.16,4,apartment,32
+2.7,33.23,downtown,388,63.54,gym,312,578.94,2,villa,33
+8.9,90.23,suburbs,47,66.79,wifi,94,19.06,7,house,34
+8.1,15.23,uptown,910,27.5,wifi,225,758.2,6,apartment,35
+4.2,41.37,suburbs,563,19.67,wifi,176,533.49,1,villa,36
+0.6,77.22,downtown,831,56.97,wifi,118,639.24,7,villa,37
+6.4,21.57,suburbs,137,33.76,wifi,10,102.02,4,house,38
+5.6,87.79,uptown,796,82.93,wifi,109,514.91,7,house,39
+8.3,48.16,downtown,308,11.03,gym,93,558.24,4,apartment,40
+1.1,1.24,downtown,455,83.58,pool,6,970.94,5,villa,41
+6.7,50.27,uptown,48,21.35,pool,164,308.8,5,house,42
+3.2,78.08,downtown,109,11.01,wifi,331,50.6,4,house,43
+9.6,26.68,suburbs,142,51.87,gym,18,578.44,9,apartment,44
+5.2,26.93,uptown,533,25.25,wifi,108,16.62,6,apartment,45
+2.3,8.73,suburbs,13,44.32,pool,225,783.56,10,villa,46
+1.8,24.22,suburbs,109,1.56,pool,294,757.66,6,villa,47
+4.4,88.49,uptown,776,84.23,pool,94,517.53,7,house,48
+8.8,26.3,uptown,113,82.09,pool,41,953.28,3,villa,49
+8.4,75.7,suburbs,304,28.87,gym,149,49.44,6,apartment,50
+5.3,87.86,uptown,628,51.05,wifi,167,918.37,8,house,51
+1.4,20.39,downtown,422,39.33,gym,146,285.52,1,house,52
+6.7,80.71,downtown,265,32.7,gym,278,222.65,6,villa,53
+7.7,82.57,suburbs,321,80.14,pool,39,440.38,9,house,54
+7.1,98.63,downtown,237,1.55,gym,123,193.02,1,house,55
+6.1,94.77,downtown,132,65.32,wifi,188,291.97,2,villa,56
+6.0,43.04,suburbs,401,82.2,pool,53,703.4,6,villa,57
+7.3,48.71,uptown,603,29.16,gym,243,862.71,5,house,58
+9.7,54.93,uptown,376,72.71,gym,365,237.88,5,villa,59
+9.8,67.75,downtown,408,34.63,wifi,196,121.21,8,house,60
+5.3,93.36,uptown,482,9.38,wifi,336,986.56,5,house,61
+5.0,57.06,suburbs,805,85.71,wifi,74,488.48,5,villa,62
+8.7,18.16,downtown,603,87.22,pool,277,71.33,2,apartment,63
+5.3,31.11,downtown,805,79.91,gym,26,377.8,5,apartment,64
+9.0,79.98,uptown,275,31.02,wifi,141,704.73,3,villa,65
+2.4,76.75,suburbs,969,12.26,wifi,287,112.07,6,apartment,66
+5.1,29.88,downtown,645,15.53,gym,177,156.76,3,villa,67
+9.6,83.07,suburbs,149,39.52,wifi,211,387.04,7,house,68
+2.5,65.16,uptown,969,51.28,wifi,307,282.37,3,villa,69
+1.1,50.26,downtown,138,70.06,gym,310,589.39,2,apartment,70
+7.2,31.72,downtown,877,92.25,pool,33,636.05,10,villa,71
+3.3,5.19,suburbs,490,88.92,pool,246,526.62,8,house,72
+0.0,86.51,suburbs,755,81.18,wifi,197,55.13,3,villa,73
+7.3,83.78,uptown,713,22.08,gym,145,148.24,8,house,74
+0.1,18.12,downtown,794,47.46,wifi,335,356.19,6,villa,75
+4.3,2.2,suburbs,753,62.53,wifi,214,48.34,5,house,76
+9.5,17.36,downtown,3,41.84,wifi,57,696.16,1,villa,77
+7.6,37.01,uptown,442,82.97,wifi,233,0.82,8,house,78
+1.3,29.48,suburbs,87,81.88,gym,54,230.47,1,villa,79
+2.9,24.97,downtown,366,87.81,wifi,184,176.06,6,villa,80
+5.3,69.62,suburbs,881,0.56,gym,304,806.22,9,apartment,81
+6.7,17.14,suburbs,310,18.78,pool,326,658.16,2,villa,82
+7.5,26.37,uptown,110,46.47,pool,249,803.17,5,apartment,83
+5.3,18.75,downtown,550,24.56,pool,263,457.39,6,villa,84
+4.1,71.38,uptown,235,95.49,pool,156,133.94,3,villa,85
+0.9,23.75,downtown,609,35.12,wifi,311,858.47,7,apartment,86
+5.3,25.92,downtown,825,70.99,gym,29,694.38,10,villa,87
+4.6,65.54,uptown,161,80.33,wifi,50,964.18,1,apartment,88
+9.8,49.57,suburbs,369,11.89,wifi,162,802.47,3,villa,89
+5.0,12.53,suburbs,860,77.46,gym,208,161.87,4,apartment,90
+4.2,11.09,downtown,867,64.83,wifi,120,600.65,7,house,91
+7.3,66.35,downtown,21,74.15,gym,354,413.11,8,apartment,92
+3.0,26.74,suburbs,312,27.46,wifi,275,434.39,4,villa,93
+8.0,99.56,downtown,753,10.45,gym,223,893.27,2,apartment,94
+1.9,7.06,suburbs,570,30.14,pool,156,356.55,8,villa,95
+2.6,80.73,suburbs,836,45.38,wifi,178,781.86,6,house,96
+6.8,57.24,uptown,699,40.69,wifi,282,207.73,6,house,97
+5.6,11.82,uptown,376,26.9,pool,270,913.22,10,villa,98
+3.0,43.44,uptown,620,79.16,pool,259,137.75,3,villa,99
+2.8,54.15,downtown,271,10.97,pool,35,735.26,9,villa,100
+8.2,43.21,downtown,623,58.67,wifi,210,908.06,2,apartment,101
+2.4,78.5,downtown,225,15.4,gym,279,239.34,9,house,102
+4.0,29.58,downtown,734,20.22,pool,108,60.9,7,apartment,103
+5.1,57.67,uptown,964,5.11,pool,101,34.63,10,apartment,104
+7.3,74.05,downtown,948,14.88,wifi,205,806.08,6,house,105
+5.6,60.69,downtown,960,57.6,pool,115,941.54,10,house,106
+3.1,32.92,suburbs,818,31.92,gym,152,81.75,8,apartment,107
+3.7,83.87,suburbs,976,96.32,pool,130,40.2,1,villa,108
+1.0,3.66,uptown,351,35.49,pool,36,935.55,4,villa,109
+1.1,24.18,suburbs,926,50.39,pool,42,418.03,7,apartment,110
+0.5,12.46,suburbs,980,95.41,pool,352,341.56,9,villa,111
+7.5,77.7,downtown,435,67.68,gym,243,225.47,4,villa,112
+1.0,46.55,suburbs,744,81.81,gym,32,338.62,7,apartment,113
+4.2,26.93,suburbs,753,87.46,pool,134,32.67,8,villa,114
+2.2,30.01,downtown,711,67.98,pool,254,842.01,9,apartment,115
+5.4,78.4,downtown,334,25.18,wifi,224,6.93,4,villa,116
+8.5,98.35,uptown,184,19.12,pool,25,3.0,3,apartment,117
+4.8,61.79,downtown,431,38.67,gym,264,227.74,7,house,118
+4.8,73.34,downtown,571,1.22,pool,304,428.21,4,house,119
+2.9,48.27,downtown,164,5.91,pool,297,405.79,5,villa,120
+4.1,91.09,suburbs,22,27.71,pool,237,50.91,2,villa,121
+4.8,86.6,uptown,277,25.52,gym,187,472.17,3,apartment,122
+1.9,38.05,suburbs,619,88.46,wifi,266,198.86,6,apartment,123
+7.7,93.74,suburbs,8,35.41,gym,321,453.79,6,house,124
+8.5,79.95,uptown,286,53.85,gym,97,629.67,4,house,125
+0.5,21.44,suburbs,968,47.09,gym,290,994.97,3,apartment,126
+0.8,50.34,uptown,335,93.98,pool,300,381.62,8,villa,127
+2.6,45.76,uptown,369,38.95,wifi,85,346.73,7,apartment,128
+6.0,35.06,suburbs,737,27.54,pool,125,117.49,9,villa,129
+9.4,52.51,downtown,895,32.11,gym,58,866.77,10,villa,130
+7.2,83.8,uptown,574,41.33,gym,234,150.02,6,house,131
+2.4,97.28,suburbs,30,49.09,gym,286,654.48,1,villa,132
+2.8,19.18,suburbs,918,28.22,wifi,29,769.24,9,villa,133
+8.8,97.55,suburbs,13,27.66,gym,277,385.17,1,house,134
+3.9,73.77,downtown,270,92.89,pool,130,446.21,5,house,135
+2.4,60.06,downtown,930,52.68,wifi,237,601.52,7,apartment,136
+8.0,63.61,suburbs,640,82.1,wifi,285,130.61,5,house,137
+4.8,35.83,downtown,66,82.26,gym,179,452.18,4,villa,138
+2.8,41.05,suburbs,241,93.84,gym,137,701.06,3,apartment,139
+8.3,42.23,uptown,206,24.45,gym,102,951.8,10,apartment,140
+3.9,45.77,uptown,367,51.42,wifi,318,19.19,10,apartment,141
+5.4,52.07,uptown,963,12.97,wifi,228,350.62,6,apartment,142
+0.2,72.31,downtown,955,73.43,gym,59,903.8,6,house,143
+8.7,88.92,uptown,725,82.24,pool,274,395.13,5,house,144
+1.3,98.93,uptown,130,77.24,pool,110,556.36,8,house,145
+6.4,59.6,downtown,145,99.61,gym,68,78.33,2,house,146
+3.8,59.85,downtown,335,31.89,wifi,201,348.24,6,house,147
+5.0,23.6,downtown,139,40.28,gym,10,605.2,5,house,148
+5.8,75.43,uptown,788,76.36,wifi,196,681.42,8,villa,149
+9.7,54.11,downtown,264,56.59,wifi,289,72.58,10,house,150
+9.5,7.38,downtown,38,35.19,pool,110,846.79,7,house,151
+6.1,66.7,downtown,47,34.7,wifi,9,172.9,6,apartment,152
+8.4,48.74,uptown,70,85.87,gym,148,791.26,8,house,153
+4.1,92.84,suburbs,617,80.19,pool,224,996.91,1,villa,154
+5.2,12.17,uptown,610,52.74,gym,315,500.43,3,house,155
+6.3,10.67,uptown,189,67.3,gym,169,624.83,2,apartment,156
+2.2,24.79,uptown,520,34.94,gym,252,305.22,7,house,157
+5.3,94.68,downtown,314,36.52,pool,303,446.87,8,apartment,158
+3.0,12.0,suburbs,998,57.01,pool,308,770.79,4,apartment,159
+2.5,44.45,uptown,398,62.51,gym,131,823.16,3,house,160
+7.6,7.45,downtown,150,36.23,wifi,330,683.16,2,apartment,161
+8.7,68.34,downtown,576,16.53,pool,128,970.27,8,house,162
+6.8,6.6,downtown,263,53.21,wifi,305,350.23,10,apartment,163
+3.9,89.89,downtown,813,93.72,gym,66,705.64,2,apartment,164
+5.9,7.26,suburbs,404,65.07,wifi,249,211.23,8,villa,165
+5.1,82.97,downtown,188,78.72,wifi,114,20.51,9,apartment,166
+9.1,12.63,uptown,545,92.34,gym,13,913.84,10,apartment,167
+6.3,60.25,uptown,834,79.1,wifi,306,819.38,9,villa,168
+3.6,10.67,downtown,143,31.18,gym,156,328.74,1,house,169
+6.9,67.06,downtown,420,62.82,pool,286,690.31,9,villa,170
+5.5,94.83,downtown,997,98.93,pool,37,497.25,3,apartment,171
+5.3,39.32,uptown,39,54.83,wifi,45,701.3,8,house,172
+6.7,2.68,uptown,992,35.11,pool,289,367.97,5,villa,173
+1.8,11.97,downtown,840,50.89,wifi,222,866.88,2,apartment,174
+2.7,15.64,downtown,0,56.36,wifi,251,314.43,2,house,175
+5.4,3.48,suburbs,642,69.35,gym,27,203.17,10,apartment,176
+1.3,82.37,suburbs,631,91.01,gym,82,137.36,3,apartment,177
+1.3,35.45,suburbs,809,19.55,pool,14,667.49,1,villa,178
+8.0,59.02,downtown,704,99.03,wifi,109,423.15,7,villa,179
+3.3,87.62,uptown,364,74.92,gym,102,831.45,7,villa,180
+4.9,0.9,downtown,817,24.22,pool,255,959.32,1,house,181
+4.0,77.42,suburbs,264,51.14,wifi,182,505.71,4,apartment,182
+2.2,84.85,uptown,904,40.96,gym,126,493.91,6,house,183
+9.5,54.64,uptown,247,26.29,gym,8,945.41,8,villa,184
+4.5,85.3,suburbs,886,37.5,wifi,348,835.44,9,apartment,185
+6.3,29.63,uptown,651,14.12,gym,320,32.34,4,apartment,186
+0.0,3.69,uptown,20,96.11,gym,135,530.12,4,house,187
+8.4,26.68,suburbs,937,46.3,wifi,184,184.28,1,villa,188
+3.5,64.15,suburbs,20,24.41,gym,309,622.48,10,house,189
+1.8,71.98,uptown,709,65.52,gym,144,684.33,1,house,190
+2.9,27.23,uptown,506,18.39,wifi,267,815.27,5,apartment,191
+1.0,62.33,uptown,280,4.8,gym,57,132.28,2,house,192
+8.8,35.46,downtown,119,44.63,wifi,24,970.7,2,house,193
+3.3,80.96,downtown,671,33.44,gym,69,578.74,3,apartment,194
+1.9,14.6,suburbs,453,77.6,pool,267,291.35,9,apartment,195
+8.7,84.33,uptown,183,84.18,gym,210,420.51,9,apartment,196
+2.1,99.36,downtown,315,7.05,wifi,139,396.66,1,villa,197
+3.4,12.48,uptown,847,78.17,wifi,56,959.75,1,apartment,198
+1.5,76.51,uptown,554,85.46,pool,151,712.3,2,house,199
+7.9,31.99,suburbs,46,18.97,gym,189,104.81,6,house,200
+6.5,46.54,uptown,168,45.62,pool,166,958.37,5,apartment,201
+4.7,35.02,suburbs,108,58.96,gym,254,567.37,1,house,202
+3.1,37.5,suburbs,144,94.65,gym,4,179.65,9,villa,203
+7.1,51.55,downtown,830,9.75,wifi,137,764.55,5,apartment,204
+7.4,21.25,suburbs,400,35.68,gym,337,780.5,10,house,205
+8.9,63.47,downtown,722,19.49,gym,0,480.4,2,villa,206
+5.8,49.91,uptown,614,22.69,gym,335,380.77,9,house,207
+7.4,88.0,suburbs,170,98.29,wifi,227,89.97,3,apartment,208
+3.3,87.68,downtown,708,10.59,wifi,260,739.64,2,apartment,209
+5.0,99.55,downtown,816,51.63,gym,257,549.9,4,house,210
+7.7,61.76,uptown,381,39.44,wifi,323,114.52,5,apartment,211
+4.2,31.84,suburbs,930,76.77,gym,264,425.85,9,apartment,212
+7.5,89.98,uptown,39,76.19,wifi,53,763.7,4,villa,213
+6.4,31.83,uptown,798,51.57,wifi,51,237.22,5,villa,214
+5.5,7.26,downtown,517,35.12,gym,154,949.71,5,house,215
+8.7,74.84,uptown,984,55.58,wifi,188,320.62,7,house,216
+1.7,14.45,uptown,598,23.36,wifi,293,510.71,2,house,217
+6.7,52.85,uptown,936,3.69,wifi,305,316.79,1,villa,218
+2.7,97.33,downtown,672,18.58,pool,156,324.77,4,villa,219
+5.1,32.69,downtown,178,19.59,gym,238,615.77,2,villa,220
+2.0,69.94,downtown,8,45.34,pool,220,628.62,2,house,221
+4.2,36.09,downtown,214,14.01,pool,230,258.02,2,villa,222
+2.7,5.48,downtown,814,78.97,pool,118,119.94,4,apartment,223
+2.5,85.98,uptown,436,59.77,gym,84,728.99,10,villa,224
+0.7,19.78,uptown,175,67.24,pool,293,103.83,9,house,225
+8.9,22.66,uptown,933,11.47,pool,353,427.16,9,villa,226
+6.6,48.05,downtown,366,67.69,gym,203,210.45,4,house,227
+6.4,72.89,downtown,130,3.27,gym,284,820.64,8,apartment,228
+9.7,60.31,uptown,801,17.67,gym,45,325.21,7,house,229
+2.9,45.15,downtown,837,55.58,wifi,99,783.21,7,house,230
+8.7,12.79,suburbs,470,32.49,pool,280,699.38,7,villa,231
+8.0,65.14,uptown,853,13.37,pool,339,785.89,2,villa,232
+2.4,15.95,uptown,553,85.15,gym,94,832.46,3,house,233
+2.3,10.56,downtown,841,23.77,pool,216,586.79,2,villa,234
+6.6,51.08,downtown,619,23.15,pool,296,947.97,7,apartment,235
+7.7,38.2,uptown,98,46.63,wifi,14,138.18,4,villa,236
+2.8,27.02,suburbs,159,5.26,pool,326,382.87,9,apartment,237
+8.3,90.69,suburbs,951,63.21,wifi,146,227.92,2,apartment,238
+0.2,47.95,suburbs,801,49.17,pool,317,332.38,7,house,239
+0.8,53.41,suburbs,31,20.26,wifi,229,196.02,1,house,240
+7.4,26.26,uptown,440,7.65,gym,116,998.81,7,apartment,241
+4.1,89.17,downtown,851,81.56,gym,226,724.46,6,house,242
+2.4,48.36,uptown,416,75.63,pool,194,642.45,2,house,243
+10.0,91.7,suburbs,433,13.22,wifi,299,509.14,8,villa,244
+7.8,12.34,downtown,785,29.25,wifi,235,974.18,6,villa,245
+5.6,29.69,downtown,109,64.9,gym,207,988.41,10,house,246
+8.8,31.8,uptown,520,99.15,wifi,92,207.79,4,house,247
+7.1,97.85,downtown,731,24.44,gym,250,652.79,1,house,248
+2.9,44.26,suburbs,220,12.87,wifi,110,497.23,7,house,249
+3.2,72.33,uptown,609,56.59,pool,178,635.96,10,house,250
+1.7,29.32,uptown,930,97.64,pool,323,621.26,5,house,251
+3.3,36.98,downtown,827,42.3,pool,188,74.79,8,house,252
+3.4,5.97,downtown,164,86.18,pool,363,337.69,9,house,253
+6.2,17.57,downtown,126,59.08,pool,152,204.15,1,house,254
+1.3,41.97,downtown,910,4.32,pool,98,414.26,8,villa,255
+2.7,51.71,suburbs,500,49.42,gym,99,239.19,8,villa,256
+2.9,53.95,downtown,246,68.24,pool,32,907.98,3,house,257
+2.1,7.59,suburbs,755,57.12,wifi,26,124.54,7,apartment,258
+0.1,86.92,suburbs,832,48.12,pool,261,885.58,10,house,259
+2.5,78.46,suburbs,542,59.38,wifi,201,552.72,4,house,260
+0.5,29.54,uptown,681,82.19,gym,110,807.96,8,house,261
+1.6,34.27,uptown,543,99.54,pool,95,957.87,8,villa,262
+6.9,2.6,uptown,169,34.79,wifi,239,172.79,1,villa,263
+4.2,13.06,uptown,572,39.24,gym,201,181.31,1,apartment,264
+8.8,44.27,uptown,169,8.19,gym,214,578.81,3,house,265
+7.5,12.85,downtown,504,22.67,pool,312,197.08,5,apartment,266
+3.9,63.77,suburbs,462,0.24,gym,360,482.42,3,house,267
+6.2,85.34,suburbs,937,38.55,wifi,273,289.73,4,apartment,268
+4.3,83.65,uptown,668,71.2,pool,202,160.04,8,apartment,269
+2.4,81.83,downtown,723,32.41,wifi,234,954.79,3,villa,270
+9.6,33.31,suburbs,415,25.2,wifi,210,862.0,7,villa,271
+4.2,61.17,downtown,181,3.18,pool,78,466.33,6,apartment,272
+10.0,87.48,downtown,971,53.84,wifi,299,585.08,5,house,273
+7.3,93.25,uptown,70,53.36,wifi,47,127.33,9,apartment,274
+0.7,93.48,downtown,90,8.09,pool,15,194.18,9,villa,275
+3.4,25.76,uptown,477,25.02,wifi,109,838.89,3,house,276
+4.3,71.94,suburbs,860,2.41,pool,204,940.42,6,villa,277
+8.0,29.51,downtown,876,61.79,wifi,231,15.87,2,villa,278
+1.1,8.08,downtown,579,89.16,pool,22,865.59,8,villa,279
+6.1,26.82,downtown,166,40.86,wifi,266,503.41,1,villa,280
+4.2,89.61,downtown,766,39.29,wifi,89,661.37,9,villa,281
+0.2,9.72,downtown,704,31.67,gym,362,354.6,9,apartment,282
+3.9,0.4,uptown,395,10.1,wifi,108,718.75,8,villa,283
+4.7,74.85,uptown,621,33.33,wifi,233,998.66,1,villa,284
+3.8,90.73,uptown,930,5.56,wifi,127,186.55,8,house,285
+1.3,35.57,uptown,146,89.69,gym,209,551.93,5,house,286
+2.9,86.59,uptown,626,75.69,gym,43,407.14,1,apartment,287
+6.3,39.26,suburbs,226,90.33,pool,249,469.33,5,villa,288
+9.2,4.06,uptown,799,63.48,gym,58,37.08,10,house,289
+6.3,88.14,uptown,614,27.71,gym,203,313.82,8,apartment,290
+6.4,28.6,suburbs,214,43.28,pool,214,130.05,7,villa,291
+2.5,88.44,uptown,111,46.8,wifi,234,459.65,4,apartment,292
+1.2,32.05,uptown,910,80.21,pool,268,453.2,4,house,293
+5.2,87.51,downtown,205,16.27,gym,54,657.91,10,apartment,294
+4.2,85.27,downtown,137,26.81,gym,40,923.91,5,house,295
+6.5,52.81,uptown,67,6.7,gym,197,548.41,9,apartment,296
+5.5,80.09,downtown,43,94.86,pool,330,996.25,2,apartment,297
+6.6,32.38,uptown,527,22.28,gym,196,552.71,5,villa,298
+5.3,7.27,downtown,93,87.74,gym,136,503.91,1,house,299
+1.6,87.04,uptown,447,29.47,wifi,99,757.01,7,apartment,300
+3.3,44.19,suburbs,231,59.68,wifi,150,245.39,7,house,301
+4.2,35.82,downtown,224,69.46,pool,242,368.68,2,villa,302
+0.9,3.37,downtown,574,60.05,gym,235,731.2,9,house,303
+6.2,88.56,suburbs,315,69.59,wifi,170,847.37,10,house,304
+0.0,22.79,suburbs,37,85.0,gym,225,832.7,9,villa,305
+8.9,16.13,uptown,831,82.8,gym,142,747.63,2,villa,306
+3.4,72.42,downtown,29,38.03,gym,6,39.54,1,villa,307
+4.2,78.69,suburbs,704,11.7,gym,228,475.11,9,apartment,308
+1.7,12.95,suburbs,852,76.89,pool,178,584.89,1,apartment,309
+9.5,0.18,downtown,364,81.0,gym,88,995.88,1,villa,310
+7.5,71.95,suburbs,403,33.81,wifi,258,479.6,3,house,311
+9.0,23.25,suburbs,19,67.38,pool,103,23.92,4,apartment,312
+3.3,64.39,uptown,427,83.52,wifi,146,817.46,9,apartment,313
+2.0,65.23,downtown,895,88.81,gym,285,798.34,1,house,314
+9.6,12.26,suburbs,612,48.5,gym,349,183.72,2,house,315
+2.6,66.32,uptown,294,45.45,pool,214,312.47,8,villa,316
+3.9,96.17,uptown,527,44.69,wifi,265,129.91,4,apartment,317
+3.8,35.15,uptown,524,8.64,gym,74,734.46,6,apartment,318
+3.7,69.56,uptown,113,54.13,wifi,197,266.8,9,apartment,319
+0.2,16.14,suburbs,28,7.49,wifi,33,968.05,1,villa,320
+5.9,40.22,downtown,632,97.19,wifi,322,379.56,7,apartment,321
+5.6,74.61,downtown,387,71.14,wifi,152,396.55,8,villa,322
+2.3,99.21,downtown,703,31.41,wifi,17,733.33,9,villa,323
+0.5,30.68,uptown,466,10.68,gym,11,361.7,8,house,324
+6.0,50.0,uptown,304,22.04,pool,362,197.09,1,house,325
+2.3,53.51,downtown,463,26.45,pool,5,323.72,4,house,326
+4.7,61.64,downtown,914,66.11,pool,96,270.9,10,apartment,327
+6.6,49.57,downtown,198,64.53,gym,189,288.85,1,house,328
+7.9,26.2,uptown,344,48.51,pool,223,597.58,4,apartment,329
+6.2,89.61,downtown,506,20.87,pool,72,527.04,4,villa,330
+2.1,54.8,suburbs,11,39.36,wifi,195,636.43,5,villa,331
+0.4,35.12,uptown,105,57.18,wifi,252,726.51,8,apartment,332
+7.4,56.67,uptown,354,68.49,gym,231,71.19,6,apartment,333
+7.7,9.73,downtown,829,68.85,wifi,51,76.61,7,villa,334
+6.9,5.43,suburbs,151,46.06,pool,175,83.61,2,villa,335
+3.6,44.5,suburbs,664,51.61,pool,47,374.29,10,house,336
+3.4,27.55,uptown,347,21.53,gym,250,276.73,7,villa,337
+8.7,50.36,suburbs,614,83.18,wifi,282,263.47,1,apartment,338
+8.1,22.19,suburbs,664,5.64,gym,333,843.11,9,villa,339
+6.9,91.45,downtown,658,35.98,gym,77,704.85,1,apartment,340
+4.9,14.72,suburbs,922,96.52,wifi,15,270.98,5,apartment,341
+5.7,75.15,downtown,894,65.52,gym,136,571.17,3,villa,342
+9.4,79.51,uptown,635,75.55,wifi,120,697.92,4,apartment,343
+7.8,70.45,suburbs,480,14.96,wifi,129,137.11,4,house,344
+1.3,90.61,suburbs,468,47.39,pool,354,23.08,6,villa,345
+0.0,18.4,downtown,496,23.43,gym,130,939.11,8,house,346
+9.3,80.76,suburbs,923,86.42,wifi,87,964.16,4,villa,347
+7.6,18.64,suburbs,815,87.06,pool,334,353.62,8,house,348
+8.9,76.9,suburbs,734,35.13,pool,232,567.83,9,house,349
+4.1,16.29,downtown,405,72.78,pool,144,615.77,7,apartment,350
+6.0,31.94,downtown,478,8.46,wifi,315,144.92,5,villa,351
+3.6,84.02,uptown,138,73.31,pool,118,138.96,3,house,352
+3.1,87.32,downtown,630,31.28,wifi,208,838.64,10,house,353
+4.4,64.53,uptown,197,68.16,pool,308,702.66,3,apartment,354
+2.1,92.27,uptown,673,45.75,pool,158,284.2,8,villa,355
+5.4,63.71,uptown,346,92.92,gym,329,581.52,5,house,356
+3.7,32.09,uptown,758,19.76,wifi,13,457.07,4,villa,357
+0.7,89.49,suburbs,854,14.52,gym,291,821.64,7,apartment,358
+4.1,9.73,uptown,607,93.84,pool,66,939.07,7,villa,359
+9.6,76.29,uptown,568,88.28,pool,306,346.57,10,apartment,360
+3.3,28.69,suburbs,154,91.66,wifi,218,71.35,2,apartment,361
+9.2,7.0,uptown,223,69.89,gym,342,703.45,6,apartment,362
+5.3,18.78,suburbs,778,5.54,wifi,263,268.44,2,villa,363
+8.6,17.52,suburbs,244,80.7,wifi,15,710.25,1,house,364
+8.0,32.3,suburbs,301,85.76,gym,168,4.82,10,house,365
+6.6,44.02,uptown,322,77.53,pool,89,143.96,8,villa,366
+0.1,79.78,suburbs,107,5.8,gym,347,352.48,3,villa,367
+3.1,77.88,uptown,648,84.09,gym,270,522.37,10,apartment,368
+2.3,54.62,suburbs,535,42.71,pool,313,372.54,3,apartment,369
+1.2,27.47,uptown,683,80.75,pool,37,404.15,6,apartment,370
+0.4,65.54,downtown,877,62.37,wifi,89,934.37,3,apartment,371
+9.9,86.43,downtown,195,2.13,pool,151,863.38,4,house,372
+9.5,44.26,downtown,368,39.17,wifi,218,493.07,2,apartment,373
+5.2,83.78,downtown,632,71.14,pool,132,296.55,2,apartment,374
+8.5,93.38,suburbs,95,85.47,gym,174,889.88,6,house,375
+8.7,45.46,downtown,957,70.33,pool,111,148.99,5,house,376
+9.9,17.35,suburbs,103,10.51,pool,220,401.41,4,apartment,377
+0.8,10.21,uptown,311,54.02,wifi,207,1.23,8,villa,378
+4.4,11.16,suburbs,974,3.08,pool,147,782.45,7,villa,379
+8.8,82.87,uptown,349,12.47,gym,199,440.9,6,house,380
+1.5,49.94,downtown,824,62.3,gym,234,545.48,6,house,381
+8.8,69.5,uptown,524,30.5,pool,127,380.24,4,villa,382
+5.0,50.04,suburbs,995,59.62,pool,83,427.15,3,villa,383
+0.6,34.39,suburbs,194,52.9,wifi,157,431.52,3,apartment,384
+9.4,96.42,downtown,162,58.23,gym,306,731.47,8,villa,385
+5.2,1.2,uptown,140,31.19,wifi,143,874.35,5,apartment,386
+5.2,28.3,suburbs,662,28.31,gym,258,74.36,8,apartment,387
+4.7,25.02,suburbs,519,30.18,wifi,68,760.79,4,apartment,388
+9.7,5.71,downtown,784,72.86,wifi,352,145.7,4,villa,389
+2.1,12.17,suburbs,168,24.2,pool,28,768.38,2,villa,390
+1.4,81.87,suburbs,644,91.88,gym,157,607.33,1,house,391
+5.0,85.36,downtown,283,45.21,pool,32,205.13,8,house,392
+2.3,60.94,downtown,531,62.58,wifi,301,6.0,8,apartment,393
+7.7,14.61,uptown,201,81.67,pool,125,891.48,8,apartment,394
+1.8,68.72,uptown,718,58.11,pool,317,985.46,6,house,395
+5.7,38.78,downtown,357,49.56,pool,88,743.74,9,house,396
+2.3,49.8,uptown,675,34.89,gym,155,340.89,7,villa,397
+0.9,24.35,downtown,351,79.34,gym,127,277.7,9,villa,398
+4.1,5.41,suburbs,680,93.88,wifi,254,331.72,8,house,399
+5.4,57.49,downtown,713,63.06,gym,5,51.93,9,house,400
+2.5,43.19,suburbs,55,56.32,gym,349,296.76,10,house,401
+6.0,62.4,suburbs,556,74.05,gym,1,983.02,6,apartment,402
+4.5,9.87,uptown,425,30.16,gym,89,622.69,5,apartment,403
+4.8,92.68,downtown,207,89.09,wifi,184,303.79,3,house,404
+9.2,20.97,uptown,293,11.01,pool,316,870.96,9,house,405
+6.6,65.88,suburbs,302,88.15,gym,80,614.11,10,apartment,406
+3.6,21.63,uptown,101,72.63,gym,282,964.13,5,apartment,407
+8.1,89.12,suburbs,998,95.32,gym,253,948.06,8,villa,408
+4.6,55.09,uptown,523,48.98,wifi,347,328.72,8,apartment,409
+6.1,78.63,downtown,621,35.21,gym,53,36.71,10,apartment,410
+8.8,43.75,suburbs,649,77.45,wifi,293,105.72,10,villa,411
+7.7,11.12,downtown,344,33.09,pool,76,610.92,7,house,412
+4.8,90.62,suburbs,513,34.01,gym,263,197.25,5,villa,413
+7.3,56.98,downtown,402,19.37,wifi,228,564.94,1,villa,414
+3.1,35.27,uptown,608,32.32,wifi,304,865.9,6,house,415
+1.9,41.7,downtown,89,64.98,wifi,91,300.18,7,house,416
+4.1,8.45,suburbs,653,80.23,pool,85,175.57,3,villa,417
+1.0,53.66,suburbs,266,81.81,gym,57,573.27,7,villa,418
+6.8,82.91,downtown,165,3.65,wifi,95,946.0,9,house,419
+2.9,79.14,suburbs,594,22.89,pool,305,885.65,7,apartment,420
+1.1,95.93,suburbs,344,16.37,wifi,31,587.34,8,house,421
+7.0,73.26,downtown,64,34.06,wifi,31,232.98,4,house,422
+4.8,33.52,suburbs,670,56.25,wifi,328,412.91,2,villa,423
+9.6,14.89,suburbs,371,22.0,wifi,19,447.27,6,house,424
+3.3,72.63,downtown,70,93.19,gym,190,773.04,5,apartment,425
+1.4,94.26,suburbs,718,46.71,pool,43,427.68,5,apartment,426
+5.9,2.78,uptown,960,65.3,pool,135,676.89,6,apartment,427
+4.3,26.34,uptown,350,44.95,pool,76,878.99,8,house,428
+1.6,25.21,uptown,678,31.93,wifi,14,181.46,4,villa,429
+1.6,30.43,suburbs,390,10.75,gym,120,114.65,2,house,430
+7.9,83.13,downtown,598,64.42,pool,9,489.43,2,villa,431
+6.8,77.16,suburbs,484,88.82,wifi,13,948.94,6,house,432
+0.0,72.02,downtown,618,18.49,gym,26,846.66,5,house,433
+3.3,38.84,uptown,298,83.33,wifi,198,839.28,8,apartment,434
+4.8,85.92,uptown,158,78.71,wifi,75,49.63,2,house,435
+8.8,43.26,downtown,634,64.93,gym,274,615.8,4,house,436
+6.9,55.94,downtown,885,39.9,pool,32,772.2,6,villa,437
+0.5,94.89,suburbs,853,43.22,wifi,249,922.29,4,apartment,438
+1.9,2.78,uptown,609,54.15,pool,186,397.3,5,apartment,439
+3.2,16.76,uptown,532,62.92,gym,224,414.56,10,villa,440
+7.8,7.68,uptown,56,52.97,wifi,4,380.12,3,villa,441
+8.6,92.78,uptown,160,83.61,pool,30,424.58,5,house,442
+6.9,79.42,uptown,153,25.32,wifi,348,624.09,6,apartment,443
+4.2,27.93,suburbs,206,58.41,wifi,157,984.55,9,house,444
+0.6,11.99,downtown,411,85.71,wifi,20,294.19,10,villa,445
+5.2,67.58,downtown,538,60.25,wifi,7,880.28,7,house,446
+0.8,84.17,suburbs,420,37.74,pool,187,391.74,6,apartment,447
+8.6,38.34,uptown,187,26.59,gym,297,453.08,6,house,448
+5.1,59.41,uptown,327,82.96,wifi,324,469.09,9,house,449
+8.8,75.5,uptown,812,20.7,pool,262,94.47,3,villa,450
+2.9,81.96,downtown,339,99.49,gym,217,196.86,7,house,451
+6.7,49.54,downtown,761,57.11,wifi,201,669.17,8,apartment,452
+8.7,48.46,downtown,862,48.84,pool,39,42.3,1,apartment,453
+2.7,38.56,downtown,270,87.51,gym,98,310.35,10,villa,454
+2.4,75.98,suburbs,472,85.92,pool,181,113.83,10,apartment,455
+1.4,60.33,uptown,413,50.06,pool,70,610.96,4,apartment,456
+1.4,8.1,uptown,688,18.0,pool,245,759.08,7,villa,457
+4.0,31.35,suburbs,67,3.8,gym,223,201.79,5,house,458
+0.9,77.5,suburbs,846,84.9,gym,277,386.35,2,apartment,459
+5.4,45.77,suburbs,946,45.53,pool,72,884.5,1,villa,460
+4.4,33.88,downtown,935,73.94,wifi,190,921.66,9,apartment,461
+1.7,38.86,uptown,150,86.05,gym,156,273.4,3,villa,462
+8.1,88.85,downtown,656,1.04,pool,45,160.73,2,apartment,463
+4.6,17.35,suburbs,929,58.39,gym,54,762.41,2,apartment,464
+2.4,80.74,suburbs,545,71.66,wifi,364,160.01,4,villa,465
+4.2,24.69,uptown,42,62.02,wifi,132,322.45,9,apartment,466
+2.1,74.01,suburbs,283,91.38,gym,188,686.67,4,house,467
+9.6,76.36,uptown,605,76.14,pool,333,816.03,1,villa,468
+2.1,91.66,downtown,870,69.24,gym,87,931.93,2,house,469
+3.5,51.51,downtown,859,46.88,gym,335,131.99,3,villa,470
+4.1,36.36,uptown,782,24.53,pool,23,286.82,5,apartment,471
+6.4,77.5,suburbs,190,95.9,wifi,10,85.19,3,apartment,472
+0.6,56.63,uptown,5,35.04,wifi,317,258.74,6,apartment,473
+4.4,55.91,uptown,895,4.14,gym,47,363.85,10,apartment,474
+1.7,59.07,downtown,229,13.54,gym,142,561.79,7,apartment,475
+0.0,74.1,uptown,113,14.89,gym,207,36.22,5,villa,476
+9.1,6.73,uptown,230,53.29,wifi,57,176.14,4,apartment,477
+6.0,72.9,downtown,252,94.08,pool,201,274.99,1,house,478
+6.5,11.93,suburbs,287,0.98,wifi,52,610.46,5,apartment,479
+5.4,45.02,downtown,60,76.54,pool,161,475.87,8,house,480
+7.9,87.68,suburbs,187,63.84,gym,341,975.61,3,apartment,481
+4.9,66.52,uptown,701,63.25,gym,29,449.36,9,apartment,482
+9.8,17.11,uptown,113,6.85,pool,0,837.99,7,villa,483
+2.6,23.06,downtown,615,46.75,pool,4,958.11,3,apartment,484
+0.1,38.08,downtown,294,66.04,pool,326,103.29,5,house,485
+4.5,61.64,downtown,107,90.43,wifi,163,492.77,1,apartment,486
+1.7,68.41,uptown,788,22.52,gym,363,237.16,8,house,487
+7.6,10.3,uptown,491,47.72,wifi,345,715.84,5,villa,488
+9.9,95.8,suburbs,850,83.28,wifi,194,892.49,8,apartment,489
+0.9,18.34,uptown,809,42.99,pool,28,617.51,6,apartment,490
+9.1,71.82,downtown,823,31.77,wifi,216,988.74,8,villa,491
+8.1,12.63,downtown,245,55.25,pool,118,219.68,9,apartment,492
+4.3,84.83,downtown,662,27.7,pool,10,705.47,1,apartment,493
+10.0,1.2,uptown,569,25.28,pool,144,246.45,6,villa,494
+5.1,66.6,uptown,105,63.49,pool,245,170.62,3,villa,495
+4.8,78.39,downtown,928,61.58,wifi,105,138.61,3,villa,496
+9.9,80.15,suburbs,34,92.13,gym,73,653.53,3,apartment,497
+4.9,88.21,downtown,571,68.67,wifi,124,649.67,2,apartment,498
+7.9,89.7,uptown,616,18.49,wifi,350,690.14,9,house,499
+6.5,75.54,uptown,729,78.81,wifi,362,274.23,1,house,500
+4.5,65.74,suburbs,973,87.45,gym,104,719.36,3,apartment,501
+8.0,97.0,uptown,439,55.24,pool,93,358.02,2,villa,502
+1.0,95.9,suburbs,94,66.46,gym,133,34.34,2,apartment,503
+5.7,17.84,downtown,698,45.56,wifi,132,535.19,6,villa,504
+4.7,32.29,suburbs,502,39.91,gym,131,132.25,7,house,505
+4.1,91.74,suburbs,380,30.08,wifi,281,826.07,2,villa,506
+0.7,18.18,uptown,450,78.79,gym,304,121.22,4,apartment,507
+2.9,31.02,uptown,523,93.59,wifi,285,852.74,8,villa,508
+2.3,99.42,suburbs,274,23.19,wifi,290,538.37,7,house,509
+6.6,65.06,suburbs,353,19.1,pool,8,405.51,9,house,510
+9.4,72.39,uptown,773,38.37,gym,132,678.1,1,apartment,511
+2.2,54.94,uptown,571,48.42,pool,324,459.87,8,house,512
+3.2,70.05,downtown,310,95.06,pool,166,175.62,2,villa,513
+5.9,48.77,downtown,995,38.5,pool,191,833.16,5,villa,514
+5.4,72.42,suburbs,85,86.57,wifi,108,956.39,4,apartment,515
+3.0,52.45,suburbs,821,35.6,wifi,109,945.55,8,house,516
+2.1,29.43,suburbs,850,55.04,gym,290,702.57,5,apartment,517
+8.1,20.46,uptown,607,15.89,gym,62,771.52,2,villa,518
+8.1,8.15,suburbs,797,67.58,gym,44,305.47,1,house,519
+4.4,73.62,uptown,439,0.98,gym,318,308.95,3,apartment,520
+5.9,38.99,suburbs,996,56.28,gym,117,905.22,7,apartment,521
+5.5,13.42,suburbs,317,13.73,gym,239,375.79,6,house,522
+6.2,68.18,downtown,67,56.67,pool,57,388.79,10,house,523
+7.1,17.81,suburbs,882,14.32,pool,226,572.93,2,villa,524
+3.4,15.85,suburbs,229,65.73,pool,5,20.44,4,house,525
+8.0,92.35,uptown,636,18.96,pool,283,970.71,8,house,526
+7.8,42.31,suburbs,955,31.26,pool,28,155.68,6,house,527
+1.0,3.94,suburbs,25,42.59,pool,29,375.38,1,apartment,528
+5.4,13.47,suburbs,547,13.46,pool,318,84.76,7,apartment,529
+6.7,6.8,downtown,230,59.59,pool,296,648.76,2,apartment,530
+0.2,12.01,suburbs,724,18.89,gym,126,140.59,4,apartment,531
+5.8,59.08,suburbs,573,55.53,pool,268,402.6,9,house,532
+8.1,91.76,downtown,847,27.07,wifi,303,145.15,4,villa,533
+2.8,30.31,uptown,659,1.69,gym,358,796.51,6,apartment,534
+5.2,62.36,uptown,585,87.93,gym,263,524.55,10,apartment,535
+7.5,83.32,downtown,1000,23.53,pool,34,278.73,2,villa,536
+7.3,86.61,downtown,118,44.82,wifi,203,669.55,6,villa,537
+6.6,1.06,uptown,518,36.65,gym,123,890.76,5,apartment,538
+3.9,6.69,uptown,37,50.66,gym,105,824.43,5,villa,539
+5.7,93.03,downtown,631,31.06,pool,316,542.27,3,apartment,540
+6.5,11.23,uptown,781,0.23,pool,50,79.64,1,house,541
+5.1,8.52,downtown,196,52.71,gym,328,93.42,9,villa,542
+2.3,94.93,suburbs,347,98.47,gym,70,736.96,3,villa,543
+7.6,68.9,downtown,612,86.87,pool,128,853.31,9,apartment,544
+0.3,8.57,uptown,883,83.65,gym,208,570.86,1,house,545
+9.4,62.01,suburbs,391,3.87,pool,179,900.52,8,apartment,546
+5.3,36.09,suburbs,600,78.84,wifi,315,378.81,9,house,547
+3.1,2.91,downtown,493,99.93,pool,241,529.08,3,house,548
+7.4,90.21,uptown,776,56.57,pool,220,888.29,1,house,549
+8.5,19.14,downtown,879,67.99,pool,73,137.36,3,house,550
+1.5,47.27,uptown,251,85.21,pool,135,350.26,10,house,551
+5.4,70.78,uptown,508,50.7,wifi,243,720.64,4,house,552
+6.3,68.34,uptown,626,93.34,wifi,245,828.12,7,apartment,553
+3.7,38.36,uptown,201,52.6,gym,310,365.91,10,apartment,554
+0.8,74.89,suburbs,261,7.84,gym,261,766.02,9,house,555
+1.2,74.92,downtown,68,92.12,gym,232,489.31,3,villa,556
+8.6,88.35,suburbs,145,5.91,wifi,63,192.68,5,house,557
+0.7,90.31,uptown,52,99.08,pool,5,194.77,6,apartment,558
+7.3,82.67,suburbs,188,81.2,pool,8,955.43,10,villa,559
+5.0,89.52,downtown,65,27.72,gym,261,650.92,8,house,560
+7.1,57.72,downtown,900,37.33,pool,178,870.34,5,apartment,561
+8.1,23.45,downtown,508,35.49,wifi,163,815.33,3,villa,562
+3.7,31.79,downtown,722,50.96,gym,123,319.02,9,apartment,563
+5.0,79.61,uptown,100,77.86,gym,6,931.02,10,house,564
+5.2,60.25,uptown,799,80.8,gym,339,931.17,1,villa,565
+9.2,36.7,downtown,599,98.08,wifi,71,403.53,8,house,566
+3.6,6.56,suburbs,788,41.6,wifi,117,25.25,6,villa,567
+3.4,26.42,suburbs,749,37.88,wifi,221,703.8,9,apartment,568
+2.1,14.76,suburbs,267,91.2,gym,173,352.7,4,apartment,569
+2.0,65.62,suburbs,734,61.54,pool,304,447.32,4,house,570
+8.4,86.72,suburbs,470,78.11,pool,301,420.16,3,villa,571
+5.7,17.22,downtown,241,34.43,wifi,70,782.1,6,villa,572
+4.5,2.79,uptown,429,44.91,pool,105,548.33,7,villa,573
+1.9,3.32,uptown,118,36.6,wifi,141,131.37,2,house,574
+2.8,6.87,uptown,237,93.2,gym,134,303.15,8,apartment,575
+3.7,97.54,downtown,256,59.45,gym,218,624.48,3,house,576
+4.1,19.72,suburbs,698,76.16,wifi,88,45.94,10,house,577
+2.5,76.98,downtown,141,11.65,pool,294,436.11,1,apartment,578
+2.8,34.94,uptown,606,35.8,pool,359,571.31,1,house,579
+8.4,3.34,downtown,333,73.64,pool,156,437.76,1,villa,580
+8.6,11.13,suburbs,630,29.22,gym,99,994.11,4,house,581
+8.8,48.38,suburbs,289,32.03,wifi,328,909.54,10,house,582
+5.3,42.1,suburbs,403,41.57,wifi,24,363.98,6,apartment,583
+9.2,12.61,uptown,5,32.35,pool,73,916.78,10,house,584
+9.0,87.55,suburbs,711,98.75,wifi,167,285.85,3,apartment,585
+9.0,69.89,downtown,644,57.41,wifi,70,369.89,7,apartment,586
+5.7,82.5,downtown,669,90.79,gym,176,360.44,8,apartment,587
+7.6,65.92,uptown,23,56.46,wifi,117,550.4,6,villa,588
+0.5,70.55,uptown,427,22.4,gym,361,658.36,8,house,589
+7.1,47.37,downtown,275,78.68,pool,193,319.2,2,apartment,590
+8.8,22.76,suburbs,30,49.02,wifi,54,205.19,8,apartment,591
+2.7,91.47,downtown,901,85.8,gym,23,704.25,9,apartment,592
+2.4,18.24,downtown,2,70.34,wifi,100,259.88,4,villa,593
+3.4,83.23,downtown,259,54.46,pool,176,775.89,1,villa,594
+8.6,29.8,uptown,546,31.75,pool,198,834.07,1,house,595
+0.5,40.64,suburbs,269,54.67,gym,3,673.31,5,apartment,596
+3.4,58.74,suburbs,784,31.65,gym,199,976.9,4,villa,597
+5.7,14.02,downtown,678,20.62,gym,15,296.57,6,house,598
+2.7,93.18,suburbs,459,17.98,wifi,265,26.27,2,villa,599
+5.0,28.38,downtown,555,18.91,gym,184,451.57,10,house,600
+6.1,50.21,uptown,529,7.2,pool,197,336.66,10,villa,601
+2.4,10.81,suburbs,989,85.18,pool,153,769.93,2,house,602
+6.0,4.18,suburbs,912,12.82,gym,93,875.19,1,villa,603
+3.9,48.97,suburbs,115,78.11,gym,252,27.21,5,apartment,604
+3.3,76.41,suburbs,363,70.52,wifi,348,423.92,1,house,605
+1.9,30.72,downtown,276,27.2,pool,114,947.37,3,apartment,606
+8.4,23.39,downtown,142,66.99,pool,327,39.89,1,house,607
+1.8,71.55,uptown,991,18.08,pool,92,151.91,3,villa,608
+5.5,58.33,suburbs,140,12.36,pool,43,298.84,5,apartment,609
+5.8,92.36,uptown,416,41.96,gym,95,165.63,9,house,610
+1.2,95.1,uptown,992,77.68,pool,178,53.7,8,apartment,611
+3.2,72.07,uptown,915,89.15,pool,286,138.57,3,villa,612
+6.2,77.2,suburbs,15,44.89,wifi,108,205.69,5,apartment,613
+6.0,68.49,downtown,658,67.31,pool,311,669.91,5,house,614
+2.1,15.24,suburbs,752,35.78,pool,61,382.28,3,house,615
+2.8,63.33,downtown,459,98.84,pool,140,396.65,8,apartment,616
+4.0,28.53,suburbs,156,13.58,wifi,199,276.88,6,apartment,617
+3.4,10.61,downtown,616,34.77,wifi,9,136.64,7,house,618
+7.9,63.01,suburbs,173,15.03,pool,230,659.17,5,apartment,619
+0.1,46.05,suburbs,740,27.6,gym,328,973.11,1,apartment,620
+7.0,46.16,downtown,438,77.41,pool,151,21.48,6,house,621
+4.6,37.5,uptown,719,47.23,gym,41,527.61,1,house,622
+1.7,8.57,uptown,561,97.63,wifi,213,920.64,2,house,623
+7.6,41.68,uptown,188,3.92,pool,201,802.45,3,villa,624
+9.3,94.85,downtown,146,20.09,wifi,5,658.05,5,villa,625
+5.3,95.93,suburbs,665,3.2,pool,104,856.78,3,villa,626
+6.3,36.11,downtown,62,28.14,pool,341,814.77,7,apartment,627
+0.9,38.98,downtown,839,25.31,wifi,5,691.14,2,apartment,628
+7.9,5.51,suburbs,577,78.83,pool,123,267.41,9,house,629
+2.2,26.45,uptown,962,76.09,wifi,268,585.47,2,house,630
+6.9,93.73,suburbs,398,58.6,pool,110,99.19,5,house,631
+5.3,29.42,downtown,153,67.97,gym,299,14.54,10,apartment,632
+5.1,7.6,uptown,111,56.81,wifi,90,909.3,10,apartment,633
+2.8,2.65,downtown,400,90.03,wifi,189,658.84,4,house,634
+9.3,84.22,suburbs,55,71.43,wifi,322,146.28,2,apartment,635
+3.9,64.55,uptown,672,40.86,gym,297,197.52,4,villa,636
+6.6,48.2,uptown,209,39.93,gym,40,986.56,2,villa,637
+5.8,8.47,suburbs,499,65.27,pool,337,212.49,1,apartment,638
+0.4,70.86,uptown,515,36.12,gym,8,891.07,9,villa,639
+8.3,37.86,suburbs,849,80.92,gym,37,6.16,9,villa,640
+8.5,91.7,downtown,980,28.45,gym,185,479.97,7,apartment,641
+0.8,10.91,uptown,1000,83.06,wifi,237,618.9,8,villa,642
+7.7,65.48,suburbs,848,69.51,wifi,82,876.94,9,house,643
+9.7,28.83,suburbs,357,62.41,wifi,19,479.5,8,apartment,644
+4.8,3.71,downtown,863,26.22,wifi,268,228.81,5,villa,645
+2.5,16.28,suburbs,857,18.73,gym,365,777.21,3,house,646
+6.7,25.51,downtown,58,5.73,pool,12,756.95,7,villa,647
+2.6,75.43,uptown,503,13.97,gym,121,985.33,9,house,648
+5.2,90.15,uptown,575,41.75,pool,317,483.75,2,house,649
+8.0,25.88,suburbs,447,81.18,gym,63,550.36,7,apartment,650
+6.6,38.86,uptown,326,38.17,pool,78,952.27,5,villa,651
+2.8,35.28,suburbs,856,89.83,wifi,70,281.86,9,apartment,652
+2.7,76.25,uptown,97,82.07,gym,327,844.69,1,apartment,653
+5.9,0.65,suburbs,33,38.69,pool,301,769.28,7,villa,654
+7.9,74.15,suburbs,869,93.47,gym,262,973.7,9,villa,655
+4.2,47.55,downtown,36,20.93,gym,216,120.65,6,house,656
+5.0,93.42,suburbs,685,9.76,gym,199,304.22,9,apartment,657
+4.1,45.74,uptown,260,34.09,pool,251,136.38,4,house,658
+5.1,39.27,downtown,456,41.37,gym,284,256.46,3,villa,659
+9.8,32.24,suburbs,224,88.85,gym,40,32.69,6,apartment,660
+9.1,29.79,suburbs,54,19.66,pool,361,601.76,8,house,661
+5.3,83.18,uptown,295,71.74,wifi,166,843.73,2,apartment,662
+4.3,11.06,uptown,704,68.35,gym,96,731.62,7,villa,663
+4.0,0.62,uptown,285,4.15,wifi,257,472.27,3,apartment,664
+0.2,28.64,uptown,414,94.92,pool,246,536.22,3,house,665
+7.2,67.11,uptown,538,15.26,pool,262,541.2,9,villa,666
+5.8,41.79,downtown,196,51.35,wifi,61,520.02,10,villa,667
+0.5,64.99,suburbs,525,34.35,pool,246,44.78,8,villa,668
+5.9,67.19,uptown,114,73.3,gym,1,490.57,10,apartment,669
+1.7,35.93,uptown,476,92.71,pool,345,430.45,2,villa,670
+8.5,24.51,uptown,420,93.09,pool,46,85.81,4,villa,671
+1.3,92.09,uptown,378,30.72,wifi,317,835.81,5,villa,672
+1.0,23.94,uptown,902,60.67,wifi,54,885.97,2,apartment,673
+0.9,26.5,uptown,866,21.2,gym,231,403.42,8,apartment,674
+8.0,59.52,downtown,124,34.38,gym,175,915.46,9,house,675
+8.1,93.81,uptown,769,84.53,gym,141,702.3,8,villa,676
+7.6,8.35,uptown,461,19.05,wifi,327,575.93,1,house,677
+3.0,65.89,uptown,523,98.12,gym,223,204.25,2,villa,678
+9.9,13.94,suburbs,779,71.59,wifi,355,963.37,6,apartment,679
+3.0,29.01,uptown,959,16.77,gym,67,803.49,10,house,680
+9.4,51.36,uptown,925,87.24,wifi,73,763.85,2,villa,681
+6.1,50.64,downtown,8,79.77,pool,102,797.51,6,house,682
+1.2,56.26,uptown,491,19.21,wifi,32,867.99,2,apartment,683
+3.3,11.72,suburbs,776,41.99,wifi,306,17.63,5,house,684
+9.9,10.61,downtown,583,45.57,pool,199,90.11,5,house,685
+6.4,11.51,uptown,172,79.52,gym,333,856.42,10,apartment,686
+9.8,3.14,downtown,918,18.91,wifi,315,20.13,1,villa,687
+2.0,98.82,uptown,614,12.12,gym,166,386.99,6,house,688
+0.5,99.28,suburbs,541,73.78,gym,119,678.92,6,apartment,689
+8.2,45.78,downtown,514,10.36,wifi,105,525.22,9,apartment,690
+8.9,82.9,suburbs,777,92.64,pool,207,510.84,3,villa,691
+4.3,54.8,uptown,26,20.06,wifi,331,145.66,1,villa,692
+7.7,73.2,downtown,297,91.08,pool,16,823.32,8,house,693
+1.0,35.3,uptown,813,1.63,wifi,179,946.08,2,apartment,694
+3.0,4.29,suburbs,848,20.49,pool,197,479.34,2,house,695
+1.1,15.88,uptown,409,88.1,wifi,271,129.03,7,house,696
+0.7,27.05,uptown,251,57.76,wifi,146,982.13,8,apartment,697
+0.9,2.97,suburbs,788,43.41,pool,163,180.19,3,apartment,698
+4.8,94.34,suburbs,696,45.09,gym,245,817.75,10,villa,699
+0.3,18.1,suburbs,933,89.66,gym,70,201.12,3,house,700
+6.5,4.36,uptown,355,22.24,wifi,257,499.6,3,house,701
+1.4,37.91,uptown,787,55.17,pool,364,958.07,2,villa,702
+2.4,86.3,uptown,551,75.93,pool,6,390.57,8,house,703
+9.3,27.17,downtown,672,47.63,wifi,287,817.83,10,apartment,704
+2.7,2.69,downtown,340,26.61,wifi,131,366.66,5,house,705
+2.3,40.6,uptown,733,47.82,wifi,147,965.6,9,villa,706
+6.2,88.79,uptown,119,67.87,gym,87,544.65,1,house,707
+3.5,24.13,downtown,347,30.05,pool,133,196.28,8,house,708
+2.9,86.49,suburbs,263,94.09,pool,209,493.78,7,villa,709
+9.6,71.54,downtown,354,3.89,pool,98,397.75,4,villa,710
+3.6,29.97,suburbs,165,52.97,gym,158,145.77,6,villa,711
+0.4,77.32,uptown,292,89.12,gym,314,16.79,6,villa,712
+3.3,64.23,uptown,645,30.79,wifi,262,175.48,3,house,713
+8.8,98.6,downtown,306,69.06,wifi,157,192.9,2,house,714
+6.0,48.98,downtown,588,48.65,wifi,226,142.7,10,apartment,715
+5.9,69.48,uptown,815,19.12,pool,210,606.82,3,house,716
+6.0,27.3,uptown,330,14.39,pool,278,468.91,6,house,717
+4.2,6.5,downtown,145,63.07,wifi,209,608.91,4,house,718
+8.7,82.01,suburbs,542,22.47,wifi,200,458.44,10,house,719
+8.6,58.22,uptown,191,67.47,gym,137,140.25,3,apartment,720
+2.2,9.84,downtown,644,72.87,gym,237,841.06,10,house,721
+5.2,8.03,uptown,200,95.88,pool,189,582.91,10,villa,722
+7.2,60.8,downtown,400,15.04,wifi,229,965.37,1,apartment,723
+3.8,7.08,downtown,322,60.17,pool,31,873.16,10,apartment,724
+4.1,71.29,downtown,667,56.92,gym,185,434.48,7,apartment,725
+9.0,32.1,downtown,107,81.8,pool,114,352.96,3,apartment,726
+8.5,69.48,uptown,913,20.99,wifi,345,382.47,1,apartment,727
+10.0,49.97,uptown,482,71.37,gym,206,917.79,1,apartment,728
+4.6,0.14,uptown,582,33.95,pool,251,47.96,8,apartment,729
+2.7,39.55,suburbs,292,53.43,wifi,147,219.54,8,villa,730
+7.9,83.12,suburbs,37,21.74,wifi,236,297.86,10,villa,731
+1.8,35.77,downtown,943,91.15,pool,181,137.57,3,house,732
+9.7,44.81,uptown,419,0.53,wifi,264,68.2,9,apartment,733
+5.0,92.18,uptown,481,80.81,wifi,4,973.57,10,villa,734
+6.7,8.76,downtown,593,14.76,gym,294,458.65,4,house,735
+8.2,74.92,suburbs,727,30.09,wifi,284,888.6,3,house,736
+0.4,52.01,suburbs,277,51.86,pool,335,125.04,9,apartment,737
+7.8,17.95,downtown,222,10.55,gym,316,683.08,1,villa,738
+3.7,12.66,downtown,485,0.97,gym,84,930.17,10,house,739
+2.0,56.44,downtown,432,19.86,pool,34,703.52,4,apartment,740
+9.1,18.18,downtown,272,73.68,gym,89,915.67,6,apartment,741
+8.6,65.01,downtown,78,74.0,pool,314,745.99,4,house,742
+2.7,76.91,uptown,834,69.56,gym,344,525.56,7,villa,743
+3.0,68.29,uptown,692,70.62,wifi,356,260.59,8,house,744
+7.2,43.03,uptown,105,57.86,gym,265,178.04,4,apartment,745
+2.1,46.8,suburbs,253,28.43,gym,263,351.58,3,villa,746
+0.5,20.66,suburbs,363,71.23,gym,315,579.88,2,villa,747
+4.9,42.41,uptown,630,90.31,gym,230,994.8,9,villa,748
+8.5,61.29,uptown,665,67.77,wifi,280,129.67,4,house,749
+5.7,51.48,downtown,143,75.79,wifi,164,199.46,3,apartment,750
+0.0,88.05,downtown,206,56.28,gym,220,977.81,3,apartment,751
+5.9,6.83,uptown,163,6.34,wifi,26,718.88,1,apartment,752
+9.1,94.58,uptown,150,38.03,gym,217,753.6,7,apartment,753
+2.5,2.44,downtown,147,97.45,pool,151,71.05,7,apartment,754
+9.3,98.95,downtown,102,65.03,wifi,320,575.32,6,villa,755
+6.5,60.31,downtown,209,29.26,pool,235,733.57,10,house,756
+9.2,63.26,downtown,492,87.72,wifi,246,61.85,5,villa,757
+4.8,61.74,suburbs,781,7.47,wifi,150,323.81,6,house,758
+8.2,84.82,suburbs,839,48.38,gym,310,405.45,7,house,759
+4.7,36.41,uptown,434,64.83,pool,281,758.78,4,house,760
+1.9,41.8,downtown,947,15.75,pool,313,67.72,8,villa,761
+0.4,16.57,suburbs,699,38.67,wifi,82,522.77,4,apartment,762
+9.8,52.78,suburbs,519,37.18,gym,71,245.32,2,villa,763
+6.3,58.7,downtown,815,93.59,pool,10,174.62,3,house,764
+1.9,64.3,suburbs,347,62.31,wifi,86,390.72,8,villa,765
+9.1,38.75,suburbs,896,46.58,gym,78,761.38,3,house,766
+9.2,13.01,suburbs,306,32.51,wifi,24,909.8,10,villa,767
+5.7,2.01,uptown,983,26.66,pool,148,849.68,1,apartment,768
+2.2,75.77,uptown,984,36.41,pool,124,281.0,9,apartment,769
+9.3,31.62,downtown,223,48.98,pool,109,117.63,3,apartment,770
+5.7,98.04,uptown,225,72.56,wifi,273,877.41,3,house,771
+5.3,71.41,suburbs,960,52.24,wifi,164,612.09,8,apartment,772
+1.5,29.12,downtown,338,28.17,gym,278,959.27,1,house,773
+1.7,39.28,downtown,19,41.07,pool,56,641.53,5,apartment,774
+4.5,72.77,downtown,332,66.42,pool,24,328.8,5,house,775
+2.1,42.62,uptown,435,35.66,pool,51,608.43,4,villa,776
+9.2,68.72,uptown,832,28.98,pool,312,173.17,1,house,777
+8.7,83.9,downtown,222,36.4,wifi,272,610.31,1,house,778
+8.9,33.44,downtown,639,53.46,gym,74,519.28,6,house,779
+5.7,25.01,uptown,521,9.57,wifi,323,398.64,10,apartment,780
+7.7,18.31,suburbs,163,23.49,wifi,297,743.95,10,villa,781
+5.1,28.62,suburbs,837,21.05,wifi,184,122.87,4,villa,782
+2.7,52.24,uptown,962,8.36,wifi,164,499.71,5,apartment,783
+4.5,24.85,uptown,575,90.6,wifi,289,285.67,3,apartment,784
+9.0,30.98,downtown,370,40.52,gym,264,876.28,3,apartment,785
+7.7,47.54,suburbs,525,83.14,gym,198,374.57,3,villa,786
+7.0,0.81,uptown,796,30.34,wifi,354,198.12,9,house,787
+9.2,50.3,uptown,972,79.17,pool,308,192.01,1,apartment,788
+7.2,20.93,downtown,641,21.8,wifi,21,109.7,8,villa,789
+0.1,26.71,uptown,639,62.7,wifi,46,466.37,10,villa,790
+7.3,34.62,downtown,246,73.49,wifi,123,729.3,8,villa,791
+4.4,10.97,suburbs,824,68.09,wifi,2,512.66,4,villa,792
+2.2,14.93,downtown,987,69.45,pool,197,401.92,6,villa,793
+5.1,92.73,uptown,941,16.86,wifi,121,741.88,4,apartment,794
+0.1,54.37,downtown,153,72.0,gym,212,253.5,10,apartment,795
+6.1,44.62,downtown,44,83.59,wifi,305,122.53,7,apartment,796
+0.1,47.17,downtown,310,75.08,gym,301,363.97,2,apartment,797
+5.9,24.29,uptown,604,45.95,pool,309,740.06,9,apartment,798
+1.6,93.51,downtown,814,3.97,pool,233,898.06,8,apartment,799
+0.1,6.03,uptown,193,65.47,gym,139,495.41,4,house,800
+2.3,58.75,downtown,698,58.54,pool,14,718.81,10,apartment,801
+2.1,55.63,uptown,598,95.81,pool,256,668.91,7,house,802
+9.5,40.45,downtown,49,57.2,wifi,275,730.8,3,apartment,803
+2.9,41.22,suburbs,366,35.6,gym,257,23.31,1,villa,804
+3.9,21.63,uptown,111,22.21,wifi,124,706.73,8,apartment,805
+6.4,20.91,downtown,850,16.2,gym,256,69.44,1,house,806
+5.5,21.94,suburbs,261,91.19,gym,136,87.92,8,villa,807
+8.0,66.89,uptown,473,38.87,wifi,10,39.56,8,villa,808
+5.7,81.3,suburbs,201,32.12,gym,311,640.64,7,house,809
+4.9,95.5,uptown,40,32.13,gym,178,798.59,8,apartment,810
+5.6,63.45,suburbs,533,79.79,pool,134,38.13,9,house,811
+3.1,0.32,suburbs,798,20.9,pool,239,838.25,6,house,812
+5.3,82.8,downtown,21,58.58,wifi,215,425.86,2,apartment,813
+8.0,86.14,suburbs,282,0.8,pool,319,96.84,7,house,814
+0.3,41.71,suburbs,128,57.93,gym,174,227.04,2,house,815
+3.0,41.43,suburbs,67,51.84,pool,225,520.27,2,house,816
+7.5,26.32,downtown,316,69.43,gym,341,194.34,7,apartment,817
+5.5,3.73,suburbs,462,96.75,gym,106,277.47,5,apartment,818
+2.3,47.58,downtown,861,64.53,gym,124,194.04,4,house,819
+2.4,94.22,suburbs,612,59.21,gym,12,541.26,2,villa,820
+8.7,13.89,suburbs,172,26.75,gym,282,740.71,2,villa,821
+9.5,9.18,suburbs,333,55.47,gym,115,43.28,3,apartment,822
+1.6,27.33,suburbs,191,77.73,pool,99,110.71,2,villa,823
+7.6,21.98,downtown,112,9.61,gym,114,990.94,10,house,824
+9.2,91.68,downtown,304,31.73,wifi,293,961.62,1,apartment,825
+2.5,16.23,downtown,82,5.99,wifi,124,567.49,2,villa,826
+4.6,59.55,downtown,654,34.43,wifi,54,340.96,8,villa,827
+5.3,28.66,uptown,832,7.0,pool,180,360.65,6,house,828
+3.3,23.28,downtown,581,82.82,pool,120,886.33,10,apartment,829
+5.2,91.69,downtown,693,14.86,pool,106,59.46,1,apartment,830
+3.5,24.72,downtown,631,0.85,pool,5,767.5,8,villa,831
+4.6,50.69,uptown,28,92.89,wifi,182,140.62,3,villa,832
+1.9,14.48,downtown,430,20.81,pool,245,137.98,1,house,833
+7.6,90.34,downtown,459,61.41,gym,86,389.83,9,house,834
+0.3,1.81,downtown,621,27.16,wifi,263,562.7,1,house,835
+3.2,76.95,uptown,837,32.25,pool,9,429.52,2,villa,836
+7.5,58.54,uptown,874,18.09,pool,186,757.27,9,villa,837
+8.0,16.55,uptown,808,38.69,pool,72,299.3,7,villa,838
+5.0,21.66,downtown,580,18.02,pool,213,10.35,9,house,839
+4.6,38.6,suburbs,627,20.73,gym,288,551.31,5,apartment,840
+0.8,50.74,suburbs,236,29.21,pool,304,284.81,2,house,841
+4.0,83.56,uptown,758,4.0,wifi,288,561.73,4,apartment,842
+0.7,29.43,downtown,277,4.28,pool,184,109.63,8,villa,843
+7.9,24.55,uptown,424,13.69,wifi,224,430.19,9,apartment,844
+1.0,40.36,downtown,938,6.12,wifi,331,678.87,1,villa,845
+1.3,75.42,downtown,641,89.29,gym,365,747.7,9,apartment,846
+7.9,35.85,downtown,617,65.5,wifi,11,532.23,7,villa,847
+2.4,93.25,downtown,225,11.61,gym,215,953.86,2,villa,848
+3.8,43.87,uptown,767,55.46,wifi,137,251.96,10,house,849
+4.5,92.66,suburbs,353,24.21,wifi,118,882.54,4,house,850
+3.8,40.3,downtown,628,86.79,pool,50,990.49,1,apartment,851
+5.7,96.03,downtown,627,48.64,pool,308,795.55,10,villa,852
+3.2,30.94,suburbs,234,68.43,pool,89,983.12,2,house,853
+6.0,20.23,suburbs,370,74.19,gym,279,773.75,7,apartment,854
+9.5,4.33,downtown,96,58.63,wifi,283,711.83,5,villa,855
+0.3,94.18,downtown,510,99.77,pool,166,764.39,3,villa,856
+7.9,61.03,suburbs,367,29.83,wifi,129,359.06,3,villa,857
+0.6,80.26,suburbs,585,97.0,pool,100,278.23,7,apartment,858
+8.5,37.26,suburbs,73,84.48,pool,336,537.42,1,villa,859
+7.7,97.14,suburbs,167,35.65,wifi,112,878.11,8,apartment,860
+6.6,64.13,suburbs,663,61.31,gym,12,940.24,6,apartment,861
+8.4,92.52,downtown,321,80.99,pool,306,252.04,2,apartment,862
+6.8,48.82,suburbs,360,89.66,gym,81,548.21,8,villa,863
+1.9,85.85,downtown,406,51.05,wifi,77,924.43,1,villa,864
+2.9,23.26,uptown,627,50.93,pool,238,92.26,6,villa,865
+8.8,8.38,suburbs,911,87.45,wifi,322,183.39,2,villa,866
+3.6,7.81,suburbs,924,52.64,pool,39,365.51,3,house,867
+7.4,12.3,suburbs,105,95.13,gym,226,263.41,4,villa,868
+7.4,42.03,suburbs,459,40.76,pool,138,821.91,2,villa,869
+7.1,12.61,uptown,895,64.72,wifi,190,972.87,2,villa,870
+1.6,12.21,suburbs,698,16.08,pool,104,523.79,1,villa,871
+4.9,14.85,uptown,402,0.22,pool,364,723.75,8,apartment,872
+8.6,60.9,downtown,841,93.93,wifi,216,216.5,6,house,873
+1.7,90.72,uptown,550,58.19,wifi,168,184.32,6,villa,874
+3.7,4.14,suburbs,152,94.17,pool,35,840.59,7,house,875
+7.3,56.0,uptown,21,68.5,gym,180,693.57,4,house,876
+1.5,13.47,suburbs,53,99.75,wifi,291,537.73,7,house,877
+9.7,50.48,suburbs,78,85.55,pool,336,390.79,1,house,878
+6.1,4.28,downtown,636,23.52,gym,279,924.14,1,apartment,879
+6.0,31.43,suburbs,771,97.1,wifi,290,66.67,7,apartment,880
+7.1,60.53,downtown,213,30.34,pool,285,207.81,7,house,881
+6.0,86.94,uptown,215,21.49,wifi,27,758.16,10,villa,882
+0.0,17.29,suburbs,857,13.97,wifi,169,878.02,8,villa,883
+7.9,37.93,uptown,829,36.23,wifi,322,625.05,9,apartment,884
+6.7,7.19,uptown,462,4.66,wifi,25,34.56,3,house,885
+2.0,28.9,uptown,307,8.33,wifi,199,460.73,9,house,886
+6.1,81.29,downtown,416,40.81,gym,34,660.52,9,villa,887
+6.4,95.72,uptown,19,34.38,pool,42,47.54,10,villa,888
+0.3,95.15,downtown,937,26.84,gym,171,807.65,7,apartment,889
+9.4,97.33,downtown,249,44.5,wifi,177,798.94,4,villa,890
+6.0,85.06,suburbs,470,93.38,wifi,48,189.33,5,apartment,891
+6.2,67.08,suburbs,718,77.09,wifi,156,662.61,2,villa,892
+2.4,21.52,suburbs,615,30.88,wifi,210,74.4,3,house,893
+4.9,80.45,downtown,169,51.03,wifi,82,935.57,6,apartment,894
+1.0,6.59,uptown,341,35.89,pool,54,822.88,5,house,895
+1.9,69.73,suburbs,811,15.48,wifi,241,701.53,9,villa,896
+8.7,77.7,suburbs,546,94.85,pool,210,722.14,10,house,897
+6.5,4.81,downtown,225,15.03,gym,258,929.14,3,villa,898
+8.0,9.73,uptown,717,59.46,wifi,144,825.22,5,villa,899
+5.0,99.57,uptown,679,80.58,pool,123,109.85,10,villa,900
+5.8,12.28,downtown,25,82.56,gym,121,414.41,10,house,901
+3.4,82.31,downtown,466,2.25,gym,294,953.44,6,house,902
+4.5,30.57,downtown,129,54.01,gym,165,161.12,10,villa,903
+5.6,86.61,downtown,921,46.98,gym,82,35.85,4,apartment,904
+6.3,59.56,uptown,518,7.99,pool,327,445.0,5,apartment,905
+7.1,33.87,downtown,526,82.37,wifi,343,873.79,8,apartment,906
+2.1,18.11,downtown,102,77.05,gym,265,846.51,5,apartment,907
+9.7,29.59,suburbs,506,8.12,pool,209,173.3,2,villa,908
+9.3,33.31,uptown,56,6.48,gym,93,96.22,10,villa,909
+7.1,21.85,uptown,439,84.0,wifi,344,509.26,6,villa,910
+1.1,0.17,downtown,805,58.01,gym,259,573.48,9,apartment,911
+10.0,17.57,uptown,451,79.69,wifi,150,8.82,4,villa,912
+8.6,4.3,uptown,621,14.9,wifi,321,989.07,2,apartment,913
+0.4,1.65,uptown,765,20.54,gym,162,482.29,8,house,914
+8.1,85.73,downtown,183,42.77,pool,100,126.29,4,house,915
+0.6,86.98,suburbs,154,73.84,gym,195,360.47,3,house,916
+1.5,96.94,downtown,355,39.48,gym,277,302.79,10,apartment,917
+0.3,79.07,suburbs,607,82.29,gym,308,195.37,5,villa,918
+0.3,81.43,uptown,131,14.74,gym,206,707.1,5,villa,919
+5.1,61.17,uptown,953,37.95,pool,19,782.05,6,house,920
+5.2,87.75,uptown,510,28.39,pool,315,7.34,5,apartment,921
+0.9,16.37,uptown,673,78.44,pool,317,254.15,2,apartment,922
+1.1,28.82,downtown,423,18.42,gym,279,762.51,3,apartment,923
+1.3,26.66,suburbs,956,41.02,pool,362,160.76,4,villa,924
+4.3,70.36,suburbs,350,92.61,wifi,320,922.56,8,villa,925
+6.3,37.63,suburbs,868,16.69,pool,196,419.47,1,house,926
+5.4,77.39,suburbs,223,45.77,pool,296,945.11,7,villa,927
+6.8,41.77,suburbs,704,53.17,pool,176,273.2,9,house,928
+1.6,63.11,uptown,922,8.59,wifi,326,646.99,2,villa,929
+2.0,4.61,suburbs,697,52.96,pool,101,765.78,3,house,930
+3.1,33.64,suburbs,24,84.69,pool,43,548.66,6,apartment,931
+8.6,88.98,suburbs,72,36.28,pool,331,362.23,4,villa,932
+2.8,77.31,suburbs,815,72.62,wifi,159,663.74,1,apartment,933
+3.1,58.31,suburbs,877,38.94,gym,186,150.8,10,house,934
+9.2,93.43,downtown,780,86.29,wifi,181,643.63,3,apartment,935
+3.6,74.3,uptown,319,55.86,pool,243,56.19,1,apartment,936
+7.5,18.75,suburbs,355,13.28,wifi,98,694.6,7,house,937
+1.8,80.7,uptown,248,12.16,wifi,267,583.66,1,apartment,938
+7.6,95.0,downtown,974,77.43,wifi,242,313.58,1,house,939
+3.6,49.82,uptown,661,74.69,pool,246,299.54,9,villa,940
+7.1,44.76,downtown,201,34.73,wifi,76,830.54,2,apartment,941
+5.5,31.26,uptown,851,27.37,pool,218,646.57,2,apartment,942
+3.0,1.7,uptown,457,91.39,pool,356,678.51,2,house,943
+5.5,25.73,downtown,878,88.35,gym,15,342.67,7,apartment,944
+7.5,81.31,uptown,444,62.31,wifi,26,247.98,7,house,945
+5.5,19.98,downtown,626,78.75,pool,232,200.4,10,villa,946
+4.8,1.28,suburbs,187,91.6,wifi,141,93.1,9,house,947
+6.0,20.43,suburbs,686,9.86,gym,222,23.96,3,apartment,948
+4.1,63.21,uptown,501,49.21,gym,176,447.96,4,house,949
+4.7,59.65,downtown,573,96.78,pool,10,973.19,1,house,950
+3.4,71.27,suburbs,763,42.57,wifi,39,340.05,7,house,951
+7.1,43.71,downtown,631,85.98,pool,214,918.17,6,house,952
+5.6,19.64,suburbs,557,79.25,wifi,71,769.65,8,villa,953
+8.8,53.04,downtown,38,56.71,wifi,339,114.03,10,apartment,954
+9.8,6.66,uptown,264,32.78,wifi,321,635.46,10,villa,955
+5.0,95.59,uptown,896,50.04,pool,320,874.62,5,apartment,956
+8.2,55.43,suburbs,918,61.38,pool,62,233.43,10,house,957
+8.8,75.93,downtown,857,89.38,gym,297,279.3,4,apartment,958
+0.1,27.2,uptown,912,59.0,gym,272,175.68,10,apartment,959
+6.2,66.49,suburbs,117,15.62,pool,89,913.69,5,apartment,960
+0.3,97.72,suburbs,222,34.98,pool,50,754.56,7,apartment,961
+0.4,94.05,uptown,232,24.07,gym,110,675.69,4,apartment,962
+9.0,70.4,suburbs,969,21.94,pool,132,243.25,1,apartment,963
+4.6,1.04,suburbs,82,16.43,gym,361,698.1,8,house,964
+1.1,79.29,downtown,33,16.52,pool,288,922.36,10,apartment,965
+2.7,36.98,suburbs,346,48.98,gym,288,22.53,1,villa,966
+3.4,16.45,downtown,520,75.09,wifi,76,363.57,4,villa,967
+1.6,84.65,downtown,876,90.49,pool,41,355.46,5,villa,968
+7.1,87.5,downtown,983,86.97,gym,205,689.77,10,apartment,969
+6.5,38.81,downtown,522,36.36,pool,90,373.79,5,house,970
+7.1,7.29,suburbs,44,35.32,pool,129,778.78,2,house,971
+5.4,73.03,uptown,747,9.52,pool,202,165.42,10,apartment,972
+0.5,69.72,suburbs,602,32.9,pool,181,135.81,5,house,973
+9.7,1.65,uptown,681,57.4,gym,308,59.45,9,apartment,974
+3.7,92.22,downtown,442,68.31,wifi,68,717.7,4,house,975
+0.8,17.83,uptown,944,64.61,gym,338,964.64,1,apartment,976
+0.1,59.5,downtown,616,94.79,gym,164,815.09,6,apartment,977
+8.4,77.23,suburbs,777,18.96,pool,28,90.15,5,villa,978
+8.8,8.61,suburbs,931,20.88,pool,24,81.43,8,villa,979
+5.4,11.42,uptown,390,47.52,pool,119,309.27,2,house,980
+2.7,0.98,downtown,772,27.39,pool,205,260.99,10,villa,981
+6.9,82.94,downtown,723,47.95,pool,186,580.98,6,apartment,982
+0.1,24.35,downtown,420,41.13,gym,133,564.33,8,house,983
+6.4,54.47,downtown,347,2.26,gym,107,584.94,5,villa,984
+2.0,51.04,uptown,11,29.15,wifi,267,225.59,1,apartment,985
+8.0,66.51,suburbs,378,78.75,gym,35,987.01,6,apartment,986
+5.2,0.81,suburbs,411,98.22,gym,170,133.75,9,house,987
+0.2,55.65,uptown,336,29.22,pool,238,350.48,10,apartment,988
+7.8,25.61,uptown,620,65.12,gym,272,46.07,10,apartment,989
+6.6,34.27,downtown,453,16.17,pool,115,320.7,7,villa,990
+7.3,95.47,downtown,181,69.87,wifi,184,341.9,3,villa,991
+3.2,92.01,downtown,70,12.1,gym,363,171.83,2,house,992
+2.4,33.91,uptown,491,90.37,wifi,228,71.16,9,house,993
+4.1,19.6,downtown,311,9.12,gym,219,519.65,9,house,994
+0.9,58.33,uptown,290,33.57,pool,123,793.49,5,villa,995
+4.5,13.81,uptown,816,2.31,pool,154,603.84,4,villa,996
+6.9,69.9,suburbs,57,30.85,pool,279,777.2,9,apartment,997
+5.4,17.65,downtown,188,37.5,wifi,48,252.48,9,villa,998
+8.3,0.35,suburbs,352,81.97,gym,150,456.16,9,villa,999
+0.4,75.06,suburbs,781,2.57,pool,31,494.53,4,villa,1000
