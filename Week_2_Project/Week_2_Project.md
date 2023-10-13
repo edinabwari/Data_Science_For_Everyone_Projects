@@ -77,4 +77,21 @@ file. This means that Airbnb listings with higher review scores ratings tend to 
 - Here also  there is a positive correlation between distance and price in the Airbnb.data.csv file. This means that Airbnb listings 
 that are further away from the city center tend to be more expensive this relationship  is non-linear, thus not constant.
 
-**
+```
+## ** Asumptions of linear  regression **
+```
+
+- Linear Relationship: There is a linear relationship between the independent variable(s) and the dependent variable. In other words, the change in the dependent variable is directly proportional to changes in the independent variable(s).
+
+- Multivariate Normality: The differences between the observed values and the predicted values should follow a normal distribution. When you plot the residuals in a histogram or Q-Q plot, they should resemble a bell-shaped curve.
+
+- Little Multicollinearity: It occurs when independent variables in the model are highly correlated with each other. This can make it challenging to determine the individual effect of each independent variable on the dependent variable.
+
+- No Auto-correlation: The residuals are correlated with themselves at different points in time or space (depending on the nature of the data).
+
+- Homoscedasticity: The variance of the residuals should be constant across all levels of the independent variable(s).
+
+```
+## **Random Forest Regression**
+```
+
