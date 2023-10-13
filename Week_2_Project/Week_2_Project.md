@@ -78,7 +78,7 @@ file. This means that Airbnb listings with higher review scores ratings tend to 
 that are further away from the city center tend to be more expensive this relationship  is non-linear, thus not constant.
 
 ```
-## ** Asumptions of linear  regression **
+## **Asumptions of linear  regression **
 ```
 
 - Linear Relationship: There is a linear relationship between the independent variable(s) and the dependent variable. In other words, the change in the dependent variable is directly proportional to changes in the independent variable(s).
