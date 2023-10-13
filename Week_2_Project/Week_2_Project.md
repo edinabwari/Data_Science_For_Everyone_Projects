@@ -77,9 +77,9 @@ file. This means that Airbnb listings with higher review scores ratings tend to 
 - Here also  there is a positive correlation between distance and price in the Airbnb.data.csv file. This means that Airbnb listings 
 that are further away from the city center tend to be more expensive this relationship  is non-linear, thus not constant.
 
-```
+---
 ## **Asumptions of linear  regression **
-```
+---
 
 - Linear Relationship: There is a linear relationship between the independent variable(s) and the dependent variable. In other words, the change in the dependent variable is directly proportional to changes in the independent variable(s).
 
@@ -91,7 +91,7 @@ that are further away from the city center tend to be more expensive this relati
 
 - Homoscedasticity: The variance of the residuals should be constant across all levels of the independent variable(s).
 
-```
+---
 ## **Random Forest Regression**
-```
+---
 
